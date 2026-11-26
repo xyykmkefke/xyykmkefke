@@ -1,0 +1,4 @@
+# Byte-for-byte content: LF only.
+* text=auto eol=lf
+*.md text eol=lf
+*.svg text eol=lf
