@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="440" height="288" viewBox="0 0 440 288" role="img" aria-label="selected repositories">
+  <rect x="0" y="0" width="440" height="288" rx="12" fill="#ffffff" stroke="#d1d9e0" stroke-width="1"/>
+  <rect x="0" y="0" width="4" height="288" rx="2" fill="#0969da"/>
+  <text x="26" y="30" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11" fill="#59636e" text-anchor="start">SELECTED REPOSITORIES</text>
+  <circle cx="29" cy="47" r="3" fill="#1a7f37"/>
+  <text x="40" y="52" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="14" font-weight="600" fill="#1f2328">bangumi-anime-library</text>
+  <text x="40" y="68" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11" fill="#59636e">本地优先的 Bangumi 番剧库：浏览、搜索、追番清单与 PWA 离线</text>
+  <text x="40" y="84" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="10" fill="#0969da">JavaScript</text>
+  <line x1="26" y1="96" x2="414" y2="96" stroke="#d1d9e0" stroke-width="1"/>
+  <circle cx="29" cy="103" r="3" fill="#1a7f37"/>
+  <text x="40" y="108" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="14" font-weight="600" fill="#1f2328">galgame-library</text>
+  <text x="40" y="124" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11" fill="#59636e">本地优先的 Galgame 浏览与游玩记录 PWA，内置 Bangumi galgame…</text>
+  <text x="40" y="140" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="10" fill="#0969da">JavaScript</text>
+  <line x1="26" y1="152" x2="414" y2="152" stroke="#d1d9e0" stroke-width="1"/>
+  <circle cx="29" cy="159" r="3" fill="#1a7f37"/>
+  <text x="40" y="164" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="14" font-weight="600" fill="#1f2328">light-novel-library</text>
+  <text x="40" y="180" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11" fill="#59636e">本地优先的轻小说浏览与阅读记录 PWA，内置 Bangumi 轻小说条目</text>
+  <text x="40" y="196" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="10" fill="#0969da">HTML</text>
+  <line x1="26" y1="208" x2="414" y2="208" stroke="#d1d9e0" stroke-width="1"/>
+  <circle cx="29" cy="215" r="3" fill="#1a7f37"/>
+  <text x="40" y="220" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="14" font-weight="600" fill="#1f2328">neon-four2</text>
+  <text x="40" y="236" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11" fill="#59636e">NEON FOUR2 - use exactly four 2s to build the target numbe…</text>
+  <text x="40" y="252" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="10" fill="#0969da">HTML</text>
+</svg>
