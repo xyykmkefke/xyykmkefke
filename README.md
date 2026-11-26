@@ -10,6 +10,8 @@ I make offline-friendly tools: anime, galgame and light-novel libraries, plus sm
 **Now:** Currently exploring local-first data, PWA offline experience, and reproducible build pipelines.
 <!-- END HUMAN -->
 
+<img alt="Yamada Ryo from Bocchi the Rock, holding a leafy stem in her mouth" src="assets/ryo-snack.gif" width="440">
+
 <kbd>[GitHub](https://github.com/xyykmkefke)</kbd>
 
 <picture>
@@ -18,6 +20,8 @@ I make offline-friendly tools: anime, galgame and light-novel libraries, plus sm
   <img alt="language mix" src="assets/summary-dark.svg">
 </picture>
 
+<img alt="Yamada Ryo glancing sideways at someone off-screen" src="assets/ryo-glance.gif" width="440">
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/repositories-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="assets/repositories-light.svg">
@@ -25,6 +29,8 @@ I make offline-friendly tools: anime, galgame and light-novel libraries, plus sm
 </picture>
 
 **Repositories:** <kbd>[xyykmkefke](https://github.com/xyykmkefke/xyykmkefke)</kbd> <kbd>[bangumi-anime-library](https://github.com/xyykmkefke/bangumi-anime-library)</kbd> <kbd>[galgame-library](https://github.com/xyykmkefke/galgame-library)</kbd> <kbd>[light-novel-library](https://github.com/xyykmkefke/light-novel-library)</kbd> <kbd>[neon-four2](https://github.com/xyykmkefke/neon-four2)</kbd>
+
+<img alt="Yamada Ryo giving a thumbs up" src="assets/ryo-thumbs-up.png" width="440">
 
 <details>
 <summary>How this page is built</summary>

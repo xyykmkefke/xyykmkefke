@@ -2,3 +2,13 @@
 * text=auto eol=lf
 *.md text eol=lf
 *.svg text eol=lf
+
+# Binary assets: never touch line endings. Without these, `* text=auto` treats
+# a GIF/PNG as text and rewrites bytes, corrupting the file on checkout. This
+# repo is a published mirror, so a corrupted image here is a broken profile.
+*.gif binary
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.webp binary
+*.ico binary
