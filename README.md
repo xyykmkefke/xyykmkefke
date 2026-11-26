@@ -13,21 +13,15 @@ I make offline-friendly tools: anime, galgame and light-novel libraries, plus sm
 [GitHub](https://github.com/xyykmkefke)
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/numbers-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/numbers-light.svg">
-  <img alt="profile numbers" src="assets/numbers-dark.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/summary-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/summary-light.svg">
+  <img alt="language mix" src="assets/summary-dark.svg">
 </picture>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/repositories-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="assets/repositories-light.svg">
   <img alt="selected repositories" src="assets/repositories-dark.svg">
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/languages-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/languages-light.svg">
-  <img alt="language mix" src="assets/languages-dark.svg">
 </picture>
 
 **Repositories:** [bangumi-anime-library](https://github.com/xyykmkefke/bangumi-anime-library) · [galgame-library](https://github.com/xyykmkefke/galgame-library) · [light-novel-library](https://github.com/xyykmkefke/light-novel-library) · [neon-four2](https://github.com/xyykmkefke/neon-four2)
@@ -39,6 +33,6 @@ Generated offline by profile-readme-pipeline from a JSON snapshot.
 No API token, no image host, no GitHub Action: sync, build, commit the diff.
 Data collected 2026-11-26 via GitHub public API.
 
-Contrast on `#0d1526`: 15.62:1 for body text. Light theme `#ffffff`: 15.80:1.
+Contrast on `#102948`: 13.15:1 for body text. Light theme `#ffffff`: 15.80:1.
 
 </details>
