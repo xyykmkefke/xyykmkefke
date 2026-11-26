@@ -33,6 +33,6 @@ Generated offline by profile-readme-pipeline from a JSON snapshot.
 No API token, no image host, no GitHub Action: sync, build, commit the diff.
 Data collected 2026-11-26 via GitHub public API.
 
-Contrast on `#102948`: 13.15:1 for body text. Light theme `#ffffff`: 15.80:1.
+Contrast on `#102948`: 13.15:1 for body text. Light theme `#f4f7fa`: 14.69:1.
 
 </details>
