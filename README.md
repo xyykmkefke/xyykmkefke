@@ -10,7 +10,7 @@ I make offline-friendly tools: anime, galgame and light-novel libraries, plus sm
 **Now:** Currently exploring local-first data, PWA offline experience, and reproducible build pipelines.
 <!-- END HUMAN -->
 
-[GitHub](https://github.com/xyykmkefke)
+<kbd>[GitHub](https://github.com/xyykmkefke)</kbd>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/summary-dark.svg">
@@ -24,7 +24,7 @@ I make offline-friendly tools: anime, galgame and light-novel libraries, plus sm
   <img alt="selected repositories" src="assets/repositories-dark.svg">
 </picture>
 
-**Repositories:** [bangumi-anime-library](https://github.com/xyykmkefke/bangumi-anime-library) · [galgame-library](https://github.com/xyykmkefke/galgame-library) · [light-novel-library](https://github.com/xyykmkefke/light-novel-library) · [neon-four2](https://github.com/xyykmkefke/neon-four2)
+**Repositories:** <kbd>[bangumi-anime-library](https://github.com/xyykmkefke/bangumi-anime-library)</kbd> <kbd>[galgame-library](https://github.com/xyykmkefke/galgame-library)</kbd> <kbd>[light-novel-library](https://github.com/xyykmkefke/light-novel-library)</kbd> <kbd>[neon-four2](https://github.com/xyykmkefke/neon-four2)</kbd>
 
 <details>
 <summary>How this page is built</summary>
@@ -33,6 +33,6 @@ Generated offline by profile-readme-pipeline from a JSON snapshot.
 No API token, no image host, no GitHub Action: sync, build, commit the diff.
 Data collected 2026-11-26 via GitHub public API.
 
-Contrast on `#102948`: 13.15:1 for body text. Light theme `#f4f7fa`: 14.69:1.
+Contrast on `#102948`: 13.15:1 for body text. Light theme `#faf7f0`: 13.70:1.
 
 </details>

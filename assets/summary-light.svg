@@ -1,16 +1,19 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="440" height="140" viewBox="0 0 440 140" role="img" aria-label="language mix">
+<svg xmlns="http://www.w3.org/2000/svg" width="440" height="164" viewBox="0 0 440 164" role="img" aria-label="language mix">
 <g transform="translate(0,0)">
-  <rect x="0" y="0" width="440" height="140" rx="12" fill="#f4f7fa" stroke="#d2dae3" stroke-width="1"/>
-  <rect x="0" y="0" width="4" height="140" rx="2" fill="#8f5a05"/>
-  <text x="26" y="30" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11" fill="#57606a" text-anchor="start">LANGUAGE MIX BY REPOSITORY</text>
-  <text x="26" y="52" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="12" fill="#57606a">JavaScript</text>
-  <text x="414" y="52" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11" text-anchor="end" fill="#1f2328">50%</text>
-  <rect x="26" y="60" width="328" height="6" rx="3" fill="#d5dbe5"/>
-  <rect x="26" y="60" width="164" height="6" rx="3" fill="#8f5a05"/>
-  <text x="26" y="90" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="12" fill="#57606a">HTML</text>
-  <text x="414" y="90" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11" text-anchor="end" fill="#1f2328">50%</text>
-  <rect x="26" y="98" width="328" height="6" rx="3" fill="#d5dbe5"/>
-  <rect x="26" y="98" width="164" height="6" rx="3" fill="#8f5a05"/>
+  <rect x="4" y="4" width="436" height="160" fill="#102948"/>
+  <rect x="0" y="0" width="436" height="160" fill="#faf7f0" stroke="#102948" stroke-width="3"/>
+  <rect x="0" y="0" width="436" height="38" fill="#f1b014"/>
+  <line x1="0" y1="38" x2="436" y2="38" stroke="#102948" stroke-width="3"/>
+  <text x="18" y="24" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="12" font-weight="700" fill="#102948">LANGUAGE MIX</text>
+  <path d="M 408 9 L 409 16 L 415 12 L 411 18 L 418 19 L 411 20 L 415 26 L 409 22 L 408 29 L 407 22 L 401 26 L 405 20 L 398 19 L 405 18 L 401 12 L 407 16 Z" fill="#102948"/>
+  <text x="18" y="68" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="12" fill="#526072">JavaScript</text>
+  <text x="418" y="68" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11" font-weight="700" text-anchor="end" fill="#102948">50%</text>
+  <rect x="18" y="76" width="400" height="14" fill="#3f5670" stroke="#102948" stroke-width="2"/>
+  <rect x="21" y="79" width="197" height="8" fill="#f1b014"/>
+  <text x="18" y="110" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="12" fill="#526072">HTML</text>
+  <text x="418" y="110" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11" font-weight="700" text-anchor="end" fill="#102948">50%</text>
+  <rect x="18" y="118" width="400" height="14" fill="#3f5670" stroke="#102948" stroke-width="2"/>
+  <rect x="21" y="121" width="197" height="8" fill="#f1b014"/>
 
 </g>
 </svg>

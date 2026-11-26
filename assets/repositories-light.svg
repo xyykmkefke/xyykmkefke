@@ -1,24 +1,27 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="440" height="288" viewBox="0 0 440 288" role="img" aria-label="selected repositories">
-  <rect x="0" y="0" width="440" height="288" rx="12" fill="#f4f7fa" stroke="#d2dae3" stroke-width="1"/>
-  <rect x="0" y="0" width="4" height="288" rx="2" fill="#8f5a05"/>
-  <text x="26" y="30" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11" fill="#57606a" text-anchor="start">SELECTED REPOSITORIES</text>
-  <circle cx="29" cy="47" r="3" fill="#1f4d8f"/>
-  <text x="40" y="52" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="14" font-weight="600" fill="#1f2328">bangumi-anime-library</text>
-  <text x="40" y="68" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11" fill="#57606a">本地优先的 Bangumi 番剧库：浏览、搜索、追番清单与 PWA 离线</text>
-  <text x="40" y="84" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="10" fill="#8f5a05">JavaScript</text>
-  <line x1="26" y1="96" x2="414" y2="96" stroke="#d2dae3" stroke-width="1"/>
-  <circle cx="29" cy="103" r="3" fill="#1f4d8f"/>
-  <text x="40" y="108" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="14" font-weight="600" fill="#1f2328">galgame-library</text>
-  <text x="40" y="124" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11" fill="#57606a">本地优先的 Galgame 浏览与游玩记录 PWA，内置 Bangumi galgame…</text>
-  <text x="40" y="140" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="10" fill="#8f5a05">JavaScript</text>
-  <line x1="26" y1="152" x2="414" y2="152" stroke="#d2dae3" stroke-width="1"/>
-  <circle cx="29" cy="159" r="3" fill="#1f4d8f"/>
-  <text x="40" y="164" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="14" font-weight="600" fill="#1f2328">light-novel-library</text>
-  <text x="40" y="180" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11" fill="#57606a">本地优先的轻小说浏览与阅读记录 PWA，内置 Bangumi 轻小说条目</text>
-  <text x="40" y="196" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="10" fill="#8f5a05">HTML</text>
-  <line x1="26" y1="208" x2="414" y2="208" stroke="#d2dae3" stroke-width="1"/>
-  <circle cx="29" cy="215" r="3" fill="#1f4d8f"/>
-  <text x="40" y="220" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="14" font-weight="600" fill="#1f2328">neon-four2</text>
-  <text x="40" y="236" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11" fill="#57606a">NEON FOUR2 - use exactly four 2s to build the target numbe…</text>
-  <text x="40" y="252" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="10" fill="#8f5a05">HTML</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="440" height="330" viewBox="0 0 440 330" role="img" aria-label="selected repositories">
+  <rect x="4" y="4" width="436" height="326" fill="#102948"/>
+  <rect x="0" y="0" width="436" height="326" fill="#faf7f0" stroke="#102948" stroke-width="3"/>
+  <rect x="0" y="0" width="436" height="38" fill="#f1b014"/>
+  <line x1="0" y1="38" x2="436" y2="38" stroke="#102948" stroke-width="3"/>
+  <text x="18" y="24" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="12" font-weight="700" fill="#102948">SELECTED REPOSITORIES</text>
+  <path d="M 408 9 L 409 16 L 415 12 L 411 18 L 418 19 L 411 20 L 415 26 L 409 22 L 408 29 L 407 22 L 401 26 L 405 20 L 398 19 L 405 18 L 401 12 L 407 16 Z" fill="#102948"/>
+  <text x="18" y="70" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="14" font-weight="700" fill="#102948">bangumi-anime-library</text>
+  <text x="18" y="88" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11" fill="#526072">本地优先的 Bangumi 番剧库：浏览、搜索、追番清单与 PWA 离线</text>
+  <rect x="18" y="96" width="70" height="18" fill="#f1b014" stroke="#102948" stroke-width="2"/>
+  <text x="53" y="109" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="10" font-weight="700" text-anchor="middle" fill="#102948">JavaScript</text>
+  <line x1="0" y1="122" x2="436" y2="122" stroke="#102948" stroke-width="3"/>
+  <text x="18" y="132" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="14" font-weight="700" fill="#102948">galgame-library</text>
+  <text x="18" y="150" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11" fill="#526072">本地优先的 Galgame 浏览与游玩记录 PWA，内置 Bangumi galgame 条目</text>
+  <rect x="18" y="158" width="70" height="18" fill="#f1b014" stroke="#102948" stroke-width="2"/>
+  <text x="53" y="171" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="10" font-weight="700" text-anchor="middle" fill="#102948">JavaScript</text>
+  <line x1="0" y1="184" x2="436" y2="184" stroke="#102948" stroke-width="3"/>
+  <text x="18" y="194" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="14" font-weight="700" fill="#102948">light-novel-library</text>
+  <text x="18" y="212" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11" fill="#526072">本地优先的轻小说浏览与阅读记录 PWA，内置 Bangumi 轻小说条目</text>
+  <rect x="18" y="220" width="36" height="18" fill="#f1b014" stroke="#102948" stroke-width="2"/>
+  <text x="36" y="233" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="10" font-weight="700" text-anchor="middle" fill="#102948">HTML</text>
+  <line x1="0" y1="246" x2="436" y2="246" stroke="#102948" stroke-width="3"/>
+  <text x="18" y="256" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="14" font-weight="700" fill="#102948">neon-four2</text>
+  <text x="18" y="274" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11" fill="#526072">NEON FOUR2 - use exactly four 2s to build the target number | z…</text>
+  <rect x="18" y="282" width="36" height="18" fill="#f1b014" stroke="#102948" stroke-width="2"/>
+  <text x="36" y="295" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="10" font-weight="700" text-anchor="middle" fill="#102948">HTML</text>
 </svg>
