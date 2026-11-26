@@ -45,3 +45,12 @@
 - 2026-11-26：首次发布。数据采集于 2026-11-26，5 个公开仓库、0 关注者、0 获星。
 - 2026-11-26：线上验证通过。仓库公开、`master` 分支、根目录 README 非空；服务端渲染 HTML 的 11 项结构门禁全部通过；三张卡片在真实页面中解析为 `/xyykmkefke/xyykmkefke/raw/master/assets/*.svg`，`curl -L` 均返回 `200 image/svg+xml` 且字节数与本地一致（1539 / 2912 / 1318），未走 camo。
 - 2026-11-26：加入明暗双主题。每张卡片拆成 `-dark` / `-light` 两套，README 改用 `<picture>` + `prefers-color-scheme` 切换；浅色调色板文字对比度 15.80 / 6.11 / 5.19 / 5.08:1 全部达 AA 以上，功能性图形（进度条轨道）由 1.43:1 提升到 3.41:1。发布前用 `POST /markdown` 确认 `<picture>`、`source`、`srcset`、相对路径 `src`、`alt` 全部保留。
+
+## 同步：两卡合并 + 头像黄蓝配色（2026-11-26）
+由 `profile-readme-pipeline` 重新生成后覆盖，提交 `8a630ff`。
+
+- 结构：`numbers` / `languages` 两卡合并为一张 `summary` SVG，纵向从三个图块缩到两个。旧的四张卡 SVG（`numbers-*`、`languages-*`）已删除。
+- 配色：藏青 `#102948` 底 + 头像黄 `#f1b014` 点睛，浅色为同色相琥珀 `#a16207`。正文对比度 13.15:1（深色）/ 15.80:1（浅色）。
+- `numbers` 卡已关闭：5 / 0 / 0 在数字变好看前只是展示「我没什么数据」，其位置保留在 `layout.sections` 中，改回 `enabled: true` 即可恢复。
+- 人工区（`BEGIN/END HUMAN` 之间）与同步前逐字节一致。
+- 核验：README 引用的 4 个资源全部存在，磁盘无孤儿文件；远端 4 个 SVG 的 blob sha 与本地全部 MATCH。
