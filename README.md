@@ -3,29 +3,34 @@
 # Deckard <sub>@xyykmkefke</sub>
 
 <!-- BEGIN HUMAN: edit freely; preserved by build and exempt from drift -->
-> Building local-first web apps for ACG libraries and small puzzles.
+> I collect the stories I love, then build small tools to keep them close.
 
-I make offline-friendly tools: anime, galgame and light-novel libraries, plus small puzzle experiments.
+Anime, galgame and light novels are my shelves. Everything here runs offline and saves locally — no account, no sync service, no request to somebody else's server just to open a page.
 
-**Now:** Currently exploring local-first data, PWA offline experience, and reproducible build pipelines.
+**Now:** A reading log that survives dead links, and a quiet obsession with what GitHub really keeps when it sanitises a README.
+
+***
 <!-- END HUMAN -->
 
 <kbd>[GitHub](https://github.com/xyykmkefke)</kbd>
 
+<blockquote>
 <p align="center">
 <img alt="Yamada Ryo from Bocchi the Rock, holding a leafy stem in her mouth" src="assets/ryo-snack.gif" width="571">
 </p>
 
-### 在做什么
+</blockquote>
 
-- 做一个 JSON 快照 → README 的生成流水线，14 道门禁全程离线
-- 研究 `SVG` 动效在 GitHub 上的真实边界（CSP 只放行文件内 `<style>`）
-- 写一个 PDF 隐藏文字 / 提示注入扫描工具
+### What I'm up to
+
+- A local-first shelf for anime, galgame and light novels — everything saved to disk
+- Small puzzle experiments that run as a single HTML file
+- A scanner for text hidden in PDFs, because invisible words shouldn't count as words
 
 <p>
 <img align="right" alt="Yamada Ryo giving a thumbs up" src="assets/ryo-thumbs-up.png" width="150">
-上面三条是我这阵子在忙的事。左边这张图是我最喜欢的角色之一 —— 用本地文件而不是外链图床，是因为主页每被打开一次，外链就会向第三方发一次请求；换成仓库里的 <code>SVG</code> 与 GIF，页面加载不再依赖别人的可用性。
-同样的取舍贯穿整页：没有统计服务的 <code>badge</code>，没有运行时 <code>API</code> 调用，连字体都退化成系统等宽字体栈而不是 webfont。
+Ryo is one of my favourite characters: quiet, dry, and always looking a little sideways. I keep her here as a reminder that a personal page should have some personality in it, not just a list of commits.
+Her pictures live in this repo instead of an image host — every view would otherwise send a request to somebody else's server.
 </p>
 <br clear="all">
 
@@ -59,39 +64,38 @@ I make offline-friendly tools: anime, galgame and light-novel libraries, plus sm
 **Repositories:** <kbd>[xyykmkefke](https://github.com/xyykmkefke/xyykmkefke)</kbd> <kbd>[bangumi-anime-library](https://github.com/xyykmkefke/bangumi-anime-library)</kbd> <kbd>[galgame-library](https://github.com/xyykmkefke/galgame-library)</kbd> <kbd>[light-novel-library](https://github.com/xyykmkefke/light-novel-library)</kbd> <kbd>[neon-four2](https://github.com/xyykmkefke/neon-four2)</kbd>
 
 <details open>
-<summary>这几件事的取舍</summary>
+<summary>Things I care about</summary>
 
 
-- **主线** — 让主页可重建：内容进 JSON，产物进 git，两者漂移即失败
-- **副线** — 把「GitHub 上什么 HTML 能活」测成一张可查的表，而不是靠猜
-- **下一步** — 把同一个内核接到博客与项目页，不止主页
+- **Own your data** — Everything saves locally; no account, no sync, no service that can go quiet
+- **Small over clever** — One tool per shelf, built enough that I actually use it
+- **Next** — A reading log that still works when the links die
 
 </details>
 
 <details open>
-<summary>技术栈</summary>
+<summary>What I use</summary>
 
 
-- **运行时** — Python 标准库，零第三方依赖
-- **产物** — README + 明暗两套 `SVG`，无外部请求
-- **门禁** — 14 项检查，含对比度、外部资源、图片完整性、孤儿素材
+- **Runtime** — Python standard library, no dependencies
+- **Output** — README plus dark and light SVG cards, zero external requests
+- **Checks** — 14 gates covering contrast, labels and missing assets
 
 </details>
 
 <details>
-<summary>这页是怎么生成的</summary>
+<summary>About this page</summary>
 
 
-- 内容全部来自 JSON 快照，改数据不改代码。
-- 视觉下沉到 `SVG`：README 里的 HTML 会被 sanitizer 拆掉，仓库里的 `.svg` 不会。
-- 每张卡片明暗两版，用 `<picture>` 按 `prefers-color-scheme` 切换。
-
-Data collected 2026-11-26 via GitHub public API.
-
-Contrast on `#102948`: 13.15:1 for body text. Light theme `#faf7f0`: 13.70:1.
+- Content lives in one JSON snapshot; the README is rebuilt from it.
+- Visuals are SVG files: GitHub sanitises README HTML but leaves repository assets alone.
+- Cards follow prefers-color-scheme, so dark mode is a first-class citizen.
 
 </details>
 
+<blockquote>
 <p align="center">
 <img alt="Yamada Ryo glancing sideways at someone off-screen" src="assets/ryo-glance.gif" width="428">
 </p>
+
+</blockquote>
