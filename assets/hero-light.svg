@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="620" height="168" viewBox="0 0 620 168" role="img" aria-label="Deckard -- Building local-first web apps for ACG libraries and small puzzles.">
+  <defs>
+    <clipPath id="card-clip"><rect x="0" y="0" width="620" height="168" rx="10" ry="10"/></clipPath>
+  </defs>
+  <g clip-path="url(#card-clip)">
+    <rect x="0" y="0" width="620" height="168" fill="#faf7f0"/>
+  </g>
+  <rect x="0.5" y="0.5" width="619" height="167" rx="10" ry="10" fill="none" stroke="#d8d2c4" stroke-width="1"/>
+  <rect x="25" y="24" width="26" height="3" rx="1.5" ry="1.5" fill="#f1b014"/>
+  <text x="25" y="52" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Arial,sans-serif" font-size="34" font-weight="700" fill="#102948" letter-spacing="-0.5">Deckard</text>
+  <text x="25" y="82" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Arial,sans-serif" font-size="13" fill="#526072">Building local-first web apps for ACG libraries and small puzzles.</text>
+  <rect x="25" y="122" width="58" height="22" rx="11" ry="11" fill="#d8d2c4"/>
+  <text x="36" y="137" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Arial,sans-serif" font-size="11" fill="#102948">Python</text>
+  <rect x="91" y="122" width="89" height="22" rx="11" ry="11" fill="#d8d2c4"/>
+  <text x="102" y="137" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Arial,sans-serif" font-size="11" fill="#102948">local-first</text>
+  <rect x="188" y="122" width="40" height="22" rx="11" ry="11" fill="#d8d2c4"/>
+  <text x="199" y="137" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Arial,sans-serif" font-size="11" fill="#102948">SVG</text>
+  <rect x="236" y="122" width="66" height="22" rx="11" ry="11" fill="#d8d2c4"/>
+  <text x="247" y="137" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Arial,sans-serif" font-size="11" fill="#102948">离线优先</text>
+  <rect x="310" y="122" width="77" height="22" rx="11" ry="11" fill="#d8d2c4"/>
+  <text x="321" y="137" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Arial,sans-serif" font-size="11" fill="#102948">可复现构建</text>
+</svg>

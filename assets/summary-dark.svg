@@ -1,23 +1,26 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="856" height="252" viewBox="0 0 856 252" role="img" aria-label="language mix">
+<svg xmlns="http://www.w3.org/2000/svg" width="856" height="211" viewBox="0 0 856 211" role="img" aria-label="language mix">
 <g transform="translate(0,0)">
-  <rect x="4" y="4" width="852" height="248" fill="#eef3fa"/>
-  <rect x="0" y="0" width="852" height="248" fill="#102948" stroke="#eef3fa" stroke-width="3"/>
-  <rect x="0" y="0" width="852" height="38" fill="#f1b014"/>
-  <line x1="0" y1="38" x2="852" y2="38" stroke="#eef3fa" stroke-width="3"/>
-  <text x="22" y="24" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="12" font-weight="700" fill="#102948">LANGUAGE MIX</text>
-  <path d="M 820 9 L 821 16 L 827 12 L 823 18 L 830 19 L 823 20 L 827 26 L 821 22 L 820 29 L 819 22 L 813 26 L 817 20 L 810 19 L 817 18 L 813 12 L 819 16 Z" fill="#102948"/>
-  <text x="22" y="78" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="12" fill="#a8b8cf">JavaScript</text>
-  <text x="830" y="78" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11" font-weight="700" text-anchor="end" fill="#eef3fa">49%</text>
-  <rect x="22" y="86" width="808" height="14" fill="#234266" stroke="#eef3fa" stroke-width="2"/>
-  <rect x="25" y="89" width="392" height="8" fill="#f1b014"/>
-  <text x="22" y="132" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="12" fill="#a8b8cf">HTML</text>
-  <text x="830" y="132" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11" font-weight="700" text-anchor="end" fill="#eef3fa">40%</text>
-  <rect x="22" y="140" width="808" height="14" fill="#234266" stroke="#eef3fa" stroke-width="2"/>
-  <rect x="25" y="143" width="319" height="8" fill="#f1b014"/>
-  <text x="22" y="186" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="12" fill="#a8b8cf">Python</text>
-  <text x="830" y="186" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11" font-weight="700" text-anchor="end" fill="#eef3fa">11%</text>
-  <rect x="22" y="194" width="808" height="14" fill="#234266" stroke="#eef3fa" stroke-width="2"/>
-  <rect x="25" y="197" width="91" height="8" fill="#f1b014"/>
+  <defs>
+    <clipPath id="card-clip-0"><rect x="0" y="0" width="856" height="211" rx="6" ry="6"/></clipPath>
+  </defs>
+  <g clip-path="url(#card-clip-0)">
+    <rect x="0" y="0" width="856" height="211" fill="#102948"/>
+  </g>
+  <rect x="0.5" y="0.5" width="855" height="210" rx="6" ry="6" fill="none" stroke="#28486b" stroke-width="1"/>
+  <circle cx="27" cy="18" r="4" fill="#f1b014"/>
+  <text x="41" y="22" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Arial,sans-serif" font-size="14" font-weight="600" fill="#eef3fa" letter-spacing="0.3">LANGUAGE MIX</text>
+  <text x="25" y="60" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Arial,sans-serif" font-size="13" fill="#eef3fa">JavaScript</text>
+  <text x="831" y="60" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Arial,sans-serif" font-size="12" font-weight="600" text-anchor="end" fill="#a8b8cf">49%</text>
+  <rect x="25" y="68" width="806" height="8" rx="4" ry="4" fill="#234266"/>
+  <rect x="25" y="68" width="394" height="8" rx="4" ry="4" fill="#f1b014"/>
+  <text x="25" y="106" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Arial,sans-serif" font-size="13" fill="#eef3fa">HTML</text>
+  <text x="831" y="106" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Arial,sans-serif" font-size="12" font-weight="600" text-anchor="end" fill="#a8b8cf">40%</text>
+  <rect x="25" y="114" width="806" height="8" rx="4" ry="4" fill="#234266"/>
+  <rect x="25" y="114" width="321" height="8" rx="4" ry="4" fill="#f1b014"/>
+  <text x="25" y="152" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Arial,sans-serif" font-size="13" fill="#eef3fa">Python</text>
+  <text x="831" y="152" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Arial,sans-serif" font-size="12" font-weight="600" text-anchor="end" fill="#a8b8cf">11%</text>
+  <rect x="25" y="160" width="806" height="8" rx="4" ry="4" fill="#234266"/>
+  <rect x="25" y="160" width="91" height="8" rx="4" ry="4" fill="#f1b014"/>
 
 </g>
 </svg>
