@@ -1,6 +1,6 @@
 - 状态：进行中
 - 创建日期：2026-11-26
-- 最后更新：2026-11-26
+- 最后更新：2026-11-27
 - 一句话说明：GitHub 主页 README 的线上产物仓库，只放最终展示内容。
 - 归档原因：无
 
@@ -27,10 +27,14 @@
 
 | 文件 | 内容 |
 |---|---|
-| `README.md` | 主页正文：身份、当前焦点、联系方式、三张卡片、仓库链接 |
-| `assets/numbers-dark.svg` / `-light.svg` | 公开仓库数 / 关注者 / 获星 |
+| `README.md` | 主页正文：横幅头图、身份、人工区、当前焦点、角色配图、卡片、仓库链接、折叠说明 |
+| `assets/banner-dark.png` / `-light.png` | 角色抠图头图（2x 分辨率，明暗各一） |
+| `assets/summary-dark.svg` / `-light.svg` | 语言占比卡（按字节聚合；沿用注册表行名 `summary`） |
+| `assets/badges-dark.svg` / `-light.svg` | shields 风格徽章行 |
 | `assets/repositories-dark.svg` / `-light.svg` | 精选仓库与简介 |
-| `assets/languages-dark.svg` / `-light.svg` | 按仓库统计的语言占比 |
+| `assets/ryo-glance.gif`、`ryo-snack.gif`、`ryo-thumbs-up.png` | 人工放置的角色配图素材（经 `image` / `float_image` 区块引用） |
+
+> 旧的 `numbers` / `languages` 单卡 SVG 已随两卡合并退役；此表在 2026-11-27 与实际产物核对后重写，此前停留在 2026-11-26 的三卡结构。
 
 每张卡片都有明暗两套，README 用官方 `<picture>` + `prefers-color-scheme` 选择；深色版同时作为 `<img>` 兜底，供不支持 `<picture>` 的客户端显示。
 
@@ -54,3 +58,11 @@
 - `numbers` 卡已关闭：5 / 0 / 0 在数字变好看前只是展示「我没什么数据」，其位置保留在 `layout.sections` 中，改回 `enabled: true` 即可恢复。
 - 人工区（`BEGIN/END HUMAN` 之间）与同步前逐字节一致。
 - 核验：README 引用的 4 个资源全部存在，磁盘无孤儿文件；远端 4 个 SVG 的 blob sha 与本地全部 MATCH。
+
+## 2026-11-27 接手核验与 STATUS 补账
+
+本日未改变页面产物；记录三件核对结果与文档补账：
+
+- **同步核验**：工具仓库 `out/` 的 `README.md` 与本仓库的逐字节一致（sha256 `f05a8ef6…`），`assets/` 两边目录完全一致。此前三轮改动（主页文案英文化 `4bbe6e1`、头图改 2x `e838895`、版式加留白与分节线 `9b68475`，对应工具仓库 `2d90d9b`/`2a24f8c`/`fb0c07b`/`e9ce1d5`）当时已同步入库，但本文件漏记，现补上。
+- **工具侧修复不影响本仓库**：`profile-readme-pipeline` 新增媒体暂存清理（`_prune_staged_media`），本仓库当前 `out/assets/` 无任何 stale 残留，产物零变化。
+- **文档修正**：「最后更新」字段与产物说明表此前停留在 2026-11-26 的旧结构，已按当前实际产物重写。
