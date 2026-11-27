@@ -4,7 +4,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="assets/hero-light.svg">
-  <img alt="Deckard profile card" width="620" src="assets/hero-dark.svg">
+  <img alt="Deckard profile card" width="634" src="assets/hero-dark.svg">
 </picture>
 <img align="top" alt="Yamada Ryo giving a thumbs up" width="180" height="168" src="assets/ryo-avatar.png">
 </p>
