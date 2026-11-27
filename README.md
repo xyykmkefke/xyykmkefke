@@ -11,11 +11,11 @@
 # Deckard <sub>@xyykmkefke</sub>
 
 <!-- BEGIN HUMAN: edit freely; preserved by build and exempt from drift -->
-> I collect the stories I love, then build small tools to keep them close.
+> I build small, local-first tools for the stories I keep coming back to.
 
-Anime, galgame and light novels are my shelves. Everything here runs <mark>offline</mark> and saves locally — no account, no sync service, no request to somebody else's server just to open a page.
+Anime, visual novels and light novels are my shelves. Most of what I write exists to hold onto them — a browser, a log, something that still opens when the network is gone. Everything here runs <mark>offline</mark> and saves to disk: no account, no sync service, no request to anybody else's server.
 
-**Now:** A reading log that survives dead links, and a quiet obsession with what GitHub really keeps when it <tt>sanitises</tt> a README.
+**Now:** teaching a PDF scanner to tell printed text apart from text that is merely there.
 
 ***
 <!-- END HUMAN -->
@@ -29,16 +29,16 @@ Anime, galgame and light novels are my shelves. Everything here runs <mark>offli
 
 </blockquote>
 
-### What I'm up to
+### What I'm working on
 
-- A local-first shelf for anime, galgame and light novels — everything saved to disk
-- Small puzzle experiments that run as a single HTML file
-- A scanner for text hidden in PDFs, because invisible words shouldn't count as words
+- A local-first shelf for anime, visual novels and light novels — everything saved to disk
+- Small puzzle experiments that ship as a single HTML file
+- A scanner for text hidden inside PDFs, because invisible words should not count as words
 
 <p>
 <img align="right" alt="Yamada Ryo giving a thumbs up" src="assets/ryo-thumbs-up.png" width="150">
-Ryo is one of my favourite characters: quiet, dry, and always looking a little sideways. I keep her here as a reminder that a personal page should have some <code>personality</code> in it, not just a list of commits.
-Her pictures live in this repo instead of an image host — every view would otherwise send a request to somebody else's server.
+Yamada Ryo, from Bocchi the Rock — quiet, dry, always looking a little sideways. She is the character I keep closest, and the one I would want to be caught imitating: unbothered, easily delighted, and incapable of pretending to care about something she does not.
+A shelf is only worth keeping if it is yours. Most of what is here started as a note to myself and turned into a tool I still open, months later.
 </p>
 <br clear="all">
 
@@ -46,7 +46,7 @@ Her pictures live in this repo instead of an image host — every view would oth
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/summary-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="assets/summary-light.svg">
-  <img alt="language mix" src="assets/summary-dark.svg">
+  <img alt="languages" src="assets/summary-dark.svg">
 </picture>
 </p>
 
@@ -64,7 +64,7 @@ Her pictures live in this repo instead of an image host — every view would oth
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/repositories-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="assets/repositories-light.svg">
-  <img alt="selected repositories" src="assets/repositories-dark.svg">
+  <img alt="selected projects" src="assets/repositories-dark.svg">
 </picture>
 </p>
 
@@ -72,32 +72,32 @@ Her pictures live in this repo instead of an image host — every view would oth
 **Repositories:** <kbd>[xyykmkefke](https://github.com/xyykmkefke/xyykmkefke)</kbd> <kbd>[bangumi-anime-library](https://github.com/xyykmkefke/bangumi-anime-library)</kbd> <kbd>[galgame-library](https://github.com/xyykmkefke/galgame-library)</kbd> <kbd>[light-novel-library](https://github.com/xyykmkefke/light-novel-library)</kbd> <kbd>[neon-four2](https://github.com/xyykmkefke/neon-four2)</kbd>
 
 <details open>
-<summary>Things I care about</summary>
+<summary>Principles</summary>
 
 
-- **Own your data** — Everything saves locally; no account, no sync, no service that can go quiet
-- **Small over clever** — One tool per shelf, built enough that I actually use it
+- **Own your data** — Everything saves locally — no account, no sync, no service that can go quiet
+- **Small over clever** — One tool per shelf, built until I actually reach for it
 - **Next** — A reading log that still works when the links die
 
 </details>
 
 <details open>
-<summary>What I use</summary>
+<summary>Toolchain</summary>
 
 
 - **Runtime** — <tt>Python</tt> standard library, no dependencies
-- **Output** — README plus dark and light SVG cards, zero external requests
-- **Checks** — 14 gates covering contrast, labels and missing assets
+- **Output** — One README and a set of SVG cards, rebuilt from a single snapshot
+- **Checks** — Fourteen gates on contrast, labels and missing assets
 
 </details>
 
 <details>
-<summary>About this page</summary>
+<summary>Colophon</summary>
 
 
-- Content lives in one JSON snapshot; the README is rebuilt from it.
-- Visuals are SVG files: GitHub sanitises README HTML but leaves repository assets alone.
-- Cards follow prefers-color-scheme, so dark mode is a first-class citizen.
+- Content lives in one JSON snapshot; the page is rebuilt from it, never hand-edited.
+- Every card is an SVG committed to this repository — GitHub sanitises README HTML but leaves repository assets alone.
+- Cards follow prefers-color-scheme, so light and dark are both first-class.
 
 </details>
 

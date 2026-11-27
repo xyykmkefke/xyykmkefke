@@ -1,30 +1,30 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="856" height="510" viewBox="0 0 856 510" role="img" aria-label="selected repositories">
+<svg xmlns="http://www.w3.org/2000/svg" width="856" height="510" viewBox="0 0 856 510" role="img" aria-label="selected projects">
   <rect x="4" y="4" width="852" height="506" fill="#102948"/>
   <rect x="0" y="0" width="852" height="506" fill="#faf7f0" stroke="#102948" stroke-width="3"/>
   <rect x="0" y="0" width="852" height="38" fill="#f1b014"/>
   <line x1="0" y1="38" x2="852" y2="38" stroke="#102948" stroke-width="3"/>
-  <text x="22" y="24" font-family="Georgia,'Times New Roman',serif" font-size="12" font-weight="700" fill="#102948">SELECTED REPOSITORIES</text>
+  <text x="22" y="24" font-family="Georgia,'Times New Roman',serif" font-size="12" font-weight="700" fill="#102948">SELECTED PROJECTS</text>
   <path d="M 820 9 L 821 16 L 827 12 L 823 18 L 830 19 L 823 20 L 827 26 L 821 22 L 820 29 L 819 22 L 813 26 L 817 20 L 810 19 L 817 18 L 813 12 L 819 16 Z" fill="#102948"/>
   <text x="22" y="78" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="14" font-weight="700" fill="#102948">xyykmkefke</text>
-  <text x="22" y="96" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11" fill="#526072">GitHub profile README and SVG cards, generated offline from a public data snapshot</text>
+  <text x="22" y="96" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11" fill="#526072">This page: a README and a set of SVG cards, generated offline from a public data snapshot</text>
   <line x1="0" y1="134" x2="852" y2="134" stroke="#102948" stroke-width="3"/>
   <text x="22" y="162" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="14" font-weight="700" fill="#102948">bangumi-anime-library</text>
-  <text x="22" y="180" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11" fill="#526072">本地优先的 Bangumi 番剧库：浏览、搜索、追番清单与 PWA 离线</text>
+  <text x="22" y="180" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11" fill="#526072">A local-first anime library: browse, search and keep a watchlist, with offline PWA support</text>
   <rect x="22" y="188" width="70" height="18" fill="#f1b014" stroke="#102948" stroke-width="2"/>
   <text x="57" y="201" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="10" font-weight="700" text-anchor="middle" fill="#102948">JavaScript</text>
   <line x1="0" y1="218" x2="852" y2="218" stroke="#102948" stroke-width="3"/>
   <text x="22" y="246" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="14" font-weight="700" fill="#102948">galgame-library</text>
-  <text x="22" y="264" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11" fill="#526072">本地优先的 Galgame 浏览与游玩记录 PWA，内置 Bangumi galgame 条目</text>
+  <text x="22" y="264" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11" fill="#526072">A local-first visual novel library and play log, built on Bangumi entries</text>
   <rect x="22" y="272" width="70" height="18" fill="#f1b014" stroke="#102948" stroke-width="2"/>
   <text x="57" y="285" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="10" font-weight="700" text-anchor="middle" fill="#102948">JavaScript</text>
   <line x1="0" y1="302" x2="852" y2="302" stroke="#102948" stroke-width="3"/>
   <text x="22" y="330" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="14" font-weight="700" fill="#102948">light-novel-library</text>
-  <text x="22" y="348" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11" fill="#526072">本地优先的轻小说浏览与阅读记录 PWA，内置 Bangumi 轻小说条目</text>
+  <text x="22" y="348" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11" fill="#526072">A local-first light novel library and reading log, built on Bangumi entries</text>
   <rect x="22" y="356" width="36" height="18" fill="#f1b014" stroke="#102948" stroke-width="2"/>
   <text x="40" y="369" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="10" font-weight="700" text-anchor="middle" fill="#102948">HTML</text>
   <line x1="0" y1="386" x2="852" y2="386" stroke="#102948" stroke-width="3"/>
   <text x="22" y="414" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="14" font-weight="700" fill="#102948">neon-four2</text>
-  <text x="22" y="432" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11" fill="#526072">NEON FOUR2 - use exactly four 2s to build the target number | zero-dependency single-file puzzle | Atlas</text>
+  <text x="22" y="432" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11" fill="#526072">NEON FOUR2 — reach any target number using exactly four 2s. A zero-dependency, single-file puzzle</text>
   <rect x="22" y="440" width="36" height="18" fill="#f1b014" stroke="#102948" stroke-width="2"/>
   <text x="40" y="453" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="10" font-weight="700" text-anchor="middle" fill="#102948">HTML</text>
 </svg>
