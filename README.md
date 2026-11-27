@@ -12,6 +12,8 @@ I make offline-friendly tools: anime, galgame and light-novel libraries, plus sm
 
 <kbd>[GitHub](https://github.com/xyykmkefke)</kbd>
 
+<img alt="Yamada Ryo from Bocchi the Rock, holding a leafy stem in her mouth" src="assets/ryo-snack.gif" width="440">
+
 ### 在做什么
 
 - 做一个 JSON 快照 → README 的生成流水线，14 项门禁全程离线
@@ -33,6 +35,8 @@ I make offline-friendly tools: anime, galgame and light-novel libraries, plus sm
 </picture>
 </p>
 
+
+<img alt="Yamada Ryo glancing sideways at someone off-screen" src="assets/ryo-glance.gif" width="440">
 
 <p>
 <picture>
