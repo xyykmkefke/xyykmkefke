@@ -16,7 +16,7 @@ I make offline-friendly tools: anime, galgame and light-novel libraries, plus sm
 
 ### 在做什么
 
-- 做一个 JSON 快照 → README 的生成流水线，14 项门禁全程离线
+- 做一个 JSON 快照 → README 的生成流水线，14 道门禁全程离线
 - 研究 `SVG` 动效在 GitHub 上的真实边界（CSP 只放行文件内 `<style>`）
 - 写一个 PDF 隐藏文字 / 提示注入扫描工具
 
@@ -74,7 +74,7 @@ I make offline-friendly tools: anime, galgame and light-novel libraries, plus sm
 
 - **运行时** — Python 标准库，零第三方依赖
 - **产物** — README + 明暗两套 `SVG`，无外部请求
-- **门禁** — 14 项检查，含对比度、外部资源、图片完整性
+- **门禁** — 14 项检查，含对比度、外部资源、图片完整性、孤儿素材
 
 </details>
 
