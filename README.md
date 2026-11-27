@@ -12,6 +12,15 @@
 
 # Deckard <sub>@xyykmkefke</sub>
 
+<p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/typing-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/typing-light.svg">
+  <img alt="typewriter slogans" src="assets/typing-dark.svg">
+</picture>
+</p>
+
+
 <!-- BEGIN HUMAN: edit freely; preserved by build and exempt from drift -->
 > I build small, local-first tools for the stories I keep coming back to.
 

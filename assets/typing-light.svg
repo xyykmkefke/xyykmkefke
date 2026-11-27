@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="856" height="68" viewBox="0 0 856 68" role="img" aria-label="local-first shelves for the stories I keep returning to / small tools that still open when the network is gone / own your data: no account, no sync, no server">
+  <rect x="4" y="4" width="852" height="64" fill="#102948"/>
+  <rect x="0" y="0" width="852" height="64" fill="#faf7f0" stroke="#102948" stroke-width="3"/>
+  <rect x="0" y="0" width="10" height="64" fill="#f1b014"/>
+  <style>
+    @keyframes caret{0%%,49%%{opacity:1}50%%,100%%{opacity:0}}
+    @keyframes t0{0%{clip-path:inset(0 739px 0 0)}24.89%{clip-path:inset(0 0px 0 0)}33.33%{clip-path:inset(0 0px 0 0)}33.38%{clip-path:inset(0 739px 0 0)}100%{clip-path:inset(0 739px 0 0)}}
+    .p0{animation:t0 16.58s steps(55) infinite;animation-delay:-0.00s}
+    @keyframes t1{0%{clip-path:inset(0 698px 0 0)}24.89%{clip-path:inset(0 0px 0 0)}33.33%{clip-path:inset(0 0px 0 0)}33.38%{clip-path:inset(0 698px 0 0)}100%{clip-path:inset(0 698px 0 0)}}
+    .p1{animation:t1 16.58s steps(52) infinite;animation-delay:-5.53s}
+    @keyframes t2{0%{clip-path:inset(0 604px 0 0)}24.89%{clip-path:inset(0 0px 0 0)}33.33%{clip-path:inset(0 0px 0 0)}33.38%{clip-path:inset(0 604px 0 0)}100%{clip-path:inset(0 604px 0 0)}}
+    .p2{animation:t2 16.58s steps(45) infinite;animation-delay:-11.05s}
+    .cr{animation:caret 1s step-end infinite}
+  </style>
+  <g class="p0"><text x="46" y="40.6" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="24" fill="#102948" textLength="739" lengthAdjust="spacing">local-first shelves for the stories I keep returning to</text></g>
+  <g class="p1"><text x="46" y="40.6" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="24" fill="#102948" textLength="699" lengthAdjust="spacing">small tools that still open when the network is gone</text></g>
+  <g class="p2"><text x="46" y="40.6" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="24" fill="#102948" textLength="605" lengthAdjust="spacing">own your data: no account, no sync, no server</text></g>
+  <rect class="cr" x="39" y="14.7" width="3" height="34.6" fill="#f1b014"/>
+</svg>
