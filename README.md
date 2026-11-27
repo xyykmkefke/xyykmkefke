@@ -12,7 +12,11 @@ I make offline-friendly tools: anime, galgame and light-novel libraries, plus sm
 
 <kbd>[GitHub](https://github.com/xyykmkefke)</kbd>
 
-<img alt="Yamada Ryo from Bocchi the Rock, holding a leafy stem in her mouth" src="assets/ryo-snack.gif" width="440">
+<p align="center">
+<img alt="Yamada Ryo from Bocchi the Rock, holding a leafy stem in her mouth" src="assets/ryo-snack.gif" width="856">
+</p>
+
+<p align="center"><sub>咬着叶子的山田凉 —— 先看我这张脸，再看下面那三行</sub></p>
 
 ### 在做什么
 
@@ -36,7 +40,11 @@ I make offline-friendly tools: anime, galgame and light-novel libraries, plus sm
 </p>
 
 
-<img alt="Yamada Ryo glancing sideways at someone off-screen" src="assets/ryo-glance.gif" width="440">
+<p align="center">
+<img alt="Yamada Ryo glancing sideways at someone off-screen" src="assets/ryo-glance.gif" width="856">
+</p>
+
+<p align="center"><sub>侧过头的山田凉，《Bocchi the Rock!》</sub></p>
 
 <p>
 <picture>
