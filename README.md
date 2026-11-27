@@ -4,7 +4,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.png">
   <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.png">
-  <img alt="Profile banner for Deckard" src="assets/banner-dark.png">
+  <img alt="Profile banner for Deckard" src="assets/banner-dark.png" width="856">
 </picture>
 </p>
 
