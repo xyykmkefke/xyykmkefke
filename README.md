@@ -38,10 +38,6 @@ I make offline-friendly tools: anime, galgame and light-novel libraries, plus sm
 </p>
 
 
-<p align="center">
-<img alt="占位图一：等待替换为角色动图" src="assets/placeholder-1.gif" height="220"> <img alt="占位图二：等待替换为角色动图" src="assets/placeholder-2.png" height="220"> <img alt="Yamada Ryo glancing sideways at someone off-screen" src="assets/ryo-glance.gif" height="220">
-</p>
-
 <p>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/badges-dark.svg">
