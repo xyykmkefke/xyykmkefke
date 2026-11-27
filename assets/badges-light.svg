@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="275" height="28" viewBox="0 0 275 28" role="img" aria-label="REPOS 6, FOLLOWERS 0, STARS 0">
+  <g>
+    <rect x="0" y="0" width="78" height="28" fill="#faf7f0" stroke="#102948" stroke-width="3"/>
+    <rect x="1.5" y="1.5" width="49.5" height="25.0" fill="#d8d2c4"/>
+    <rect x="51.0" y="1.5" width="25.5" height="25.0" fill="#f1b014"/>
+    <text x="255.0" y="175.0" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="100" text-anchor="middle" fill="#102948" transform="scale(.1)" textLength="310.0">REPOS</text>
+    <text x="645.0" y="175.0" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="100" font-weight="700" text-anchor="middle" fill="#102948" transform="scale(.1)" textLength="70.0">6</text>
+  </g>
+  <g>
+    <rect x="86" y="0" width="103" height="28" fill="#faf7f0" stroke="#102948" stroke-width="3"/>
+    <rect x="87.5" y="1.5" width="74.5" height="25.0" fill="#d8d2c4"/>
+    <rect x="162.0" y="1.5" width="25.5" height="25.0" fill="#f1b014"/>
+    <text x="1240.0" y="175.0" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="100" text-anchor="middle" fill="#102948" transform="scale(.1)" textLength="560.0">FOLLOWERS</text>
+    <text x="1755.0" y="175.0" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="100" font-weight="700" text-anchor="middle" fill="#102948" transform="scale(.1)" textLength="70.0">0</text>
+  </g>
+  <g>
+    <rect x="197" y="0" width="78" height="28" fill="#faf7f0" stroke="#102948" stroke-width="3"/>
+    <rect x="198.5" y="1.5" width="49.5" height="25.0" fill="#d8d2c4"/>
+    <rect x="248.0" y="1.5" width="25.5" height="25.0" fill="#f1b014"/>
+    <text x="2225.0" y="175.0" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="100" text-anchor="middle" fill="#102948" transform="scale(.1)" textLength="310.0">STARS</text>
+    <text x="2615.0" y="175.0" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="100" font-weight="700" text-anchor="middle" fill="#102948" transform="scale(.1)" textLength="70.0">0</text>
+  </g>
+</svg>
