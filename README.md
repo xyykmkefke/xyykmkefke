@@ -13,7 +13,7 @@ I make offline-friendly tools: anime, galgame and light-novel libraries, plus sm
 <kbd>[GitHub](https://github.com/xyykmkefke)</kbd>
 
 <p align="center">
-<img alt="Yamada Ryo from Bocchi the Rock, holding a leafy stem in her mouth" src="assets/ryo-snack.gif" width="856">
+<img alt="Yamada Ryo from Bocchi the Rock, holding a leafy stem in her mouth" src="assets/ryo-snack.gif" width="571">
 </p>
 
 ### 在做什么
@@ -93,5 +93,5 @@ Contrast on `#102948`: 13.15:1 for body text. Light theme `#faf7f0`: 13.70:1.
 </details>
 
 <p align="center">
-<img alt="Yamada Ryo glancing sideways at someone off-screen" src="assets/ryo-glance.gif" width="640">
+<img alt="Yamada Ryo glancing sideways at someone off-screen" src="assets/ryo-glance.gif" width="428">
 </p>
