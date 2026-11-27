@@ -21,6 +21,17 @@
 </p>
 
 
+<p>
+<a href="https://bgm.tv/subject/23014">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/now_playing-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/now_playing-light.svg">
+  <img alt="recently played song" src="assets/now_playing-dark.svg">
+</picture>
+</a>
+</p>
+
+
 <!-- BEGIN HUMAN: edit freely; preserved by build and exempt from drift -->
 > I build small, local-first tools for the stories I keep coming back to.
 

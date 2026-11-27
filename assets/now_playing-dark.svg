@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="856" height="204" viewBox="0 0 856 204" role="img" aria-label="Recently played: Kaze no Toori Michi">
+  <rect x="4" y="4" width="852" height="200" fill="#eef3fa"/>
+  <rect x="0" y="0" width="852" height="200" fill="#102948" stroke="#eef3fa" stroke-width="3"/>
+  <rect x="0" y="0" width="10" height="200" fill="#f1b014"/>
+  <style>
+    @keyframes spin{to{transform:rotate(360deg)}}
+    @keyframes eq{0%,100%{transform:scaleY(.35)}50%{transform:scaleY(1)}}
+    @keyframes caret{0%,49%{opacity:1}50%,100%{opacity:0}}
+    .disc{transform-box:fill-box;transform-origin:center;animation:spin 9s linear infinite}
+    .eq0{transform-box:fill-box;transform-origin:bottom;animation:eq .9s ease-in-out infinite}
+    .eq1{transform-box:fill-box;transform-origin:bottom;animation:eq 1.1s ease-in-out infinite;animation-delay:.15s}
+    .eq2{transform-box:fill-box;transform-origin:bottom;animation:eq .8s ease-in-out infinite;animation-delay:.3s}
+    .eq3{transform-box:fill-box;transform-origin:bottom;animation:eq 1.2s ease-in-out infinite;animation-delay:.1s}
+    .eq4{transform-box:fill-box;transform-origin:bottom;animation:eq .95s ease-in-out infinite;animation-delay:.25s}
+    .eq5{transform-box:fill-box;transform-origin:bottom;animation:eq 1.05s ease-in-out infinite;animation-delay:.05s}
+    .eq6{transform-box:fill-box;transform-origin:bottom;animation:eq .85s ease-in-out infinite;animation-delay:.2s}
+    .cr{animation:caret 1s step-end infinite}
+  </style>
+  <g class="disc">
+    <circle cx="135" cy="102" r="74" fill="#0b1c33" stroke="#eef3fa" stroke-width="3"/>
+    <circle cx="135" cy="102" r="55" fill="none" stroke="#a8b8cf" stroke-width="1" opacity=".45"/>
+    <circle cx="135" cy="102" r="38" fill="none" stroke="#a8b8cf" stroke-width="1" opacity=".45"/>
+    <circle cx="135" cy="102" r="22" fill="none" stroke="#a8b8cf" stroke-width="1" opacity=".45"/>
+    <circle cx="135" cy="102" r="18" fill="#f1b014" stroke="#eef3fa" stroke-width="3"/>
+    <path d="M 135 102 m -7 0 l 5 -10 l 10 0 l 5 10 l -5 10 l -10 0 z" fill="#102948"/>
+    <circle cx="135" cy="102" r="3" fill="#102948"/>
+  </g>
+  <text x="240" y="70" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="24" font-weight="700" fill="#eef3fa">Kaze no Toori Michi</text>
+  <text x="240" y="100" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="15" fill="#a8b8cf">Shinkai Makoto · Kaze Tachinu OST</text>
+  <text x="240" y="134" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="12" letter-spacing="2" fill="#a8b8cf">RECENTLY PLAYED</text>
+  <rect class="eq0" x="340" y="160" width="7" height="26" fill="#f1b014"/>
+  <rect class="eq1" x="354" y="146" width="7" height="40" fill="#f1b014"/>
+  <rect class="eq2" x="368" y="168" width="7" height="18" fill="#f1b014"/>
+  <rect class="eq3" x="382" y="152" width="7" height="34" fill="#f1b014"/>
+  <rect class="eq4" x="396" y="164" width="7" height="22" fill="#f1b014"/>
+  <rect class="eq5" x="410" y="142" width="7" height="44" fill="#f1b014"/>
+  <rect class="eq6" x="424" y="158" width="7" height="28" fill="#f1b014"/>
+  <rect class="cr" x="240" y="160" width="106" height="26" fill="#f1b014" stroke="#eef3fa" stroke-width="2"/>
+  <path d="M 248 167 l 12 6 l -12 6 z" fill="#102948"/>
+  <text x="266" y="177" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="12" font-weight="700" fill="#102948">LISTEN</text>
+</svg>
