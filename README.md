@@ -5,9 +5,9 @@
 <!-- BEGIN HUMAN: edit freely; preserved by build and exempt from drift -->
 > I collect the stories I love, then build small tools to keep them close.
 
-Anime, galgame and light novels are my shelves. Everything here runs offline and saves locally — no account, no sync service, no request to somebody else's server just to open a page.
+Anime, galgame and light novels are my shelves. Everything here runs <mark>offline</mark> and saves locally — no account, no sync service, no request to somebody else's server just to open a page.
 
-**Now:** A reading log that survives dead links, and a quiet obsession with what GitHub really keeps when it sanitises a README.
+**Now:** A reading log that survives dead links, and a quiet obsession with what GitHub really keeps when it <tt>sanitises</tt> a README.
 
 ***
 <!-- END HUMAN -->
@@ -29,7 +29,7 @@ Anime, galgame and light novels are my shelves. Everything here runs offline and
 
 <p>
 <img align="right" alt="Yamada Ryo giving a thumbs up" src="assets/ryo-thumbs-up.png" width="150">
-Ryo is one of my favourite characters: quiet, dry, and always looking a little sideways. I keep her here as a reminder that a personal page should have some personality in it, not just a list of commits.
+Ryo is one of my favourite characters: quiet, dry, and always looking a little sideways. I keep her here as a reminder that a personal page should have some <code>personality</code> in it, not just a list of commits.
 Her pictures live in this repo instead of an image host — every view would otherwise send a request to somebody else's server.
 </p>
 <br clear="all">
@@ -77,7 +77,7 @@ Her pictures live in this repo instead of an image host — every view would oth
 <summary>What I use</summary>
 
 
-- **Runtime** — Python standard library, no dependencies
+- **Runtime** — <tt>Python</tt> standard library, no dependencies
 - **Output** — README plus dark and light SVG cards, zero external requests
 - **Checks** — 14 gates covering contrast, labels and missing assets
 

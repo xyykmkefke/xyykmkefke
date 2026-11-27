@@ -3,7 +3,7 @@
   <rect x="0" y="0" width="852" height="506" fill="#102948" stroke="#eef3fa" stroke-width="3"/>
   <rect x="0" y="0" width="852" height="38" fill="#f1b014"/>
   <line x1="0" y1="38" x2="852" y2="38" stroke="#eef3fa" stroke-width="3"/>
-  <text x="22" y="24" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="12" font-weight="700" fill="#102948">SELECTED REPOSITORIES</text>
+  <text x="22" y="24" font-family="Georgia,'Times New Roman',serif" font-size="12" font-weight="700" fill="#102948">SELECTED REPOSITORIES</text>
   <path d="M 820 9 L 821 16 L 827 12 L 823 18 L 830 19 L 823 20 L 827 26 L 821 22 L 820 29 L 819 22 L 813 26 L 817 20 L 810 19 L 817 18 L 813 12 L 819 16 Z" fill="#102948"/>
   <text x="22" y="78" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="14" font-weight="700" fill="#eef3fa">xyykmkefke</text>
   <text x="22" y="96" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11" fill="#a8b8cf">GitHub profile README and SVG cards, generated offline from a public data snapshot</text>
