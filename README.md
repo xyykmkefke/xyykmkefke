@@ -8,6 +8,8 @@
 </picture>
 </p>
 
+<p><br></p>
+
 # Deckard <sub>@xyykmkefke</sub>
 
 <!-- BEGIN HUMAN: edit freely; preserved by build and exempt from drift -->
@@ -16,11 +18,13 @@
 Anime, visual novels and light novels are my shelves. Most of what I write exists to hold onto them — a browser, a log, something that still opens when the network is gone. Everything here runs <mark>offline</mark> and saves to disk: no account, no sync service, no request to anybody else's server.
 
 **Now:** teaching a PDF scanner to tell printed text apart from text that is merely there.
-
-***
 <!-- END HUMAN -->
 
+<p><br></p>
+
 <kbd>[GitHub](https://github.com/xyykmkefke)</kbd>
+
+<hr>
 
 <blockquote>
 <p align="center">
@@ -29,11 +33,15 @@ Anime, visual novels and light novels are my shelves. Most of what I write exist
 
 </blockquote>
 
-### What I'm working on
+<p><br></p>
+
+<p><sub><strong>CURRENTLY</strong></sub></p>
 
 - A local-first shelf for anime, visual novels and light novels — everything saved to disk
 - Small puzzle experiments that ship as a single HTML file
 - A scanner for text hidden inside PDFs, because invisible words should not count as words
+
+<p><br></p>
 
 <p>
 <img align="right" alt="Yamada Ryo giving a thumbs up" src="assets/ryo-thumbs-up.png" width="150">
@@ -41,6 +49,12 @@ Yamada Ryo, from Bocchi the Rock — quiet, dry, always looking a little sideway
 A shelf is only worth keeping if it is yours. Most of what is here started as a note to myself and turned into a tool I still open, months later.
 </p>
 <br clear="all">
+
+<hr>
+
+<p><br></p>
+
+<p><sub><strong>AT A GLANCE</strong></sub></p>
 
 <p>
 <picture>
@@ -69,37 +83,55 @@ A shelf is only worth keeping if it is yours. Most of what is here started as a 
 </p>
 
 
+<p><br></p>
+
 **Repositories:** <kbd>[xyykmkefke](https://github.com/xyykmkefke/xyykmkefke)</kbd> <kbd>[bangumi-anime-library](https://github.com/xyykmkefke/bangumi-anime-library)</kbd> <kbd>[galgame-library](https://github.com/xyykmkefke/galgame-library)</kbd> <kbd>[light-novel-library](https://github.com/xyykmkefke/light-novel-library)</kbd> <kbd>[neon-four2](https://github.com/xyykmkefke/neon-four2)</kbd>
+
+<p><br></p>
 
 <details open>
 <summary>Principles</summary>
 
-
-- **Own your data** — Everything saves locally — no account, no sync, no service that can go quiet
-- **Small over clever** — One tool per shelf, built until I actually reach for it
-- **Next** — A reading log that still works when the links die
+<dl>
+<dt>Own your data</dt>
+<dd>Everything saves locally — no account, no sync, no service that can go quiet</dd>
+<dt>Small over clever</dt>
+<dd>One tool per shelf, built until I actually reach for it</dd>
+<dt>Next</dt>
+<dd>A reading log that still works when the links die</dd>
+</dl>
 
 </details>
 
 <details open>
 <summary>Toolchain</summary>
 
-
-- **Runtime** — <tt>Python</tt> standard library, no dependencies
-- **Output** — One README and a set of SVG cards, rebuilt from a single snapshot
-- **Checks** — Fourteen gates on contrast, labels and missing assets
+<dl>
+<dt>Runtime</dt>
+<dd><code>Python</code> standard library, no dependencies</dd>
+<dt>Output</dt>
+<dd>One <code>README</code> and a set of <code>SVG</code> cards, rebuilt from a single snapshot</dd>
+<dt>Checks</dt>
+<dd>Fourteen gates on contrast, labels and missing assets</dd>
+</dl>
 
 </details>
 
 <details>
 <summary>Colophon</summary>
 
-
-- Content lives in one JSON snapshot; the page is rebuilt from it, never hand-edited.
-- Every card is an SVG committed to this repository — GitHub sanitises README HTML but leaves repository assets alone.
-- Cards follow prefers-color-scheme, so light and dark are both first-class.
+<dl>
+<dt>Snapshot</dt>
+<dd>Content lives in one <code>JSON</code> file; the page is rebuilt from it, never hand-edited.</dd>
+<dt>Cards</dt>
+<dd>Every card is an <code>SVG</code> committed to this repository — GitHub sanitises README HTML but leaves repository assets alone.</dd>
+<dt>Themes</dt>
+<dd>Cards follow <code>prefers-color-scheme</code>, so light and dark are both first-class.</dd>
+</dl>
 
 </details>
+
+<p><br></p>
 
 <blockquote>
 <p align="center">
