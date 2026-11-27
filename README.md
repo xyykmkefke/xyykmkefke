@@ -91,3 +91,7 @@ Data collected 2026-11-26 via GitHub public API.
 Contrast on `#102948`: 13.15:1 for body text. Light theme `#faf7f0`: 13.70:1.
 
 </details>
+
+<p align="center">
+<img alt="Yamada Ryo glancing sideways at someone off-screen" src="assets/ryo-glance.gif" width="640">
+</p>
