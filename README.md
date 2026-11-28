@@ -33,11 +33,14 @@
 
 
 <!-- BEGIN HUMAN: edit freely; preserved by build and exempt from drift -->
-> I build small, local-first tools for the stories I keep coming back to.
+> Pipelines by day, shelves by night — I build small, local-first tools for the stories I keep coming back to.
 
-Anime, visual novels and light novels are my shelves. Most of what I write exists to hold onto them — a browser, a log, something that still opens when the network is gone. Everything here runs <mark>offline</mark> and saves to disk: no account, no sync service, no request to anybody else's server.
+:books: Anime, visual novels and light novels are my shelves. Most of what I write exists to hold onto them — a browser, a log, something that still opens when the network is gone. Everything here runs <mark>offline</mark> and saves to disk: no account, no sync service, no request to anybody else's server.
 
-**Now:** teaching a PDF scanner to tell printed text apart from text that is merely there.
+:wrench: **Now:** teaching a PDF scanner to tell printed text apart from text that is merely there.
+
+> [!TIP]
+> Click the vinyl card below to hear what's on it.
 <!-- END HUMAN -->
 
 <p><br></p>
@@ -110,6 +113,8 @@ A shelf is only worth keeping if it is yours. Most of what is here started as a 
   <img alt="Contribution streak stats" src="assets/streak-dark.svg">
 </picture>
 </p>
+
+<p align="center"><sub>counting since 2026-11-28</sub></p>
 
 <p><br></p>
 
