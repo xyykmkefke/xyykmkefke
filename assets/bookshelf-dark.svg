@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="856" height="240" viewBox="0 0 856 240" role="img" aria-label="isometric bookshelf of Clean Code, DDIA, Fluent Python, ReWork, 设计心理学, 原子习惯">
+  <rect x="4" y="4" width="852" height="236" fill="#eef3fa"/>
+  <rect x="0" y="0" width="852" height="236" fill="#102948" stroke="#eef3fa" stroke-width="3"/>
+  <style>
+    .comet{offset-path:path("M 86 178 L 104 168 L 814 168 L 796 178");offset-rotate:0deg;animation:roam 16.0s linear infinite}
+    @keyframes roam{from{offset-distance:0%}to{offset-distance:100%}}
+    .scroll{writing-mode:vertical-rl}
+  </style>
+  <rect x="48" y="46" width="30" height="116" fill="#f1b014" stroke="#eef3fa" stroke-width="2"/>
+  <text class="scroll" x="58" y="62" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="17" fill="#102948">馆藏书架</text>
+  <polygon points="86,178 104,168 814,168 796,178" fill="#234266" stroke="#eef3fa" stroke-width="2"/>
+  <rect x="86" y="178" width="710" height="16" fill="#eef3fa" stroke="#eef3fa" stroke-width="2"/>
+  <polygon points="796,178 814,168 814,184 796,194" fill="#28486b" stroke="#eef3fa" stroke-width="2"/>
+  <rect x="345" y="114" width="26" height="64" fill="#f1b014" stroke="#eef3fa" stroke-width="2"/>
+  <polygon points="371,114 389,104 389,168 371,178" fill="#f1b014" stroke="#eef3fa" stroke-width="2" fill-opacity="0.82"/>
+  <polygon points="345,114 363,104 389,104 371,114" fill="#102948" stroke="#eef3fa" stroke-width="2"/>
+  <rect x="378" y="88" width="26" height="90" fill="#28486b" stroke="#eef3fa" stroke-width="2"/>
+  <polygon points="404,88 422,78 422,168 404,178" fill="#28486b" stroke="#eef3fa" stroke-width="2" fill-opacity="0.82"/>
+  <polygon points="378,88 396,78 422,78 404,88" fill="#102948" stroke="#eef3fa" stroke-width="2"/>
+  <rect x="411" y="93" width="26" height="85" fill="#eef3fa" stroke="#eef3fa" stroke-width="2"/>
+  <polygon points="437,93 455,83 455,168 437,178" fill="#eef3fa" stroke="#eef3fa" stroke-width="2" fill-opacity="0.82"/>
+  <polygon points="411,93 429,83 455,83 437,93" fill="#102948" stroke="#eef3fa" stroke-width="2"/>
+  <rect x="444" y="108" width="26" height="70" fill="#234266" stroke="#eef3fa" stroke-width="2"/>
+  <polygon points="470,108 488,98 488,168 470,178" fill="#234266" stroke="#eef3fa" stroke-width="2" fill-opacity="0.82"/>
+  <polygon points="444,108 462,98 488,98 470,108" fill="#102948" stroke="#eef3fa" stroke-width="2"/>
+  <rect x="477" y="115" width="26" height="63" fill="#f1b014" stroke="#eef3fa" stroke-width="2"/>
+  <polygon points="503,115 521,105 521,168 503,178" fill="#f1b014" stroke="#eef3fa" stroke-width="2" fill-opacity="0.82"/>
+  <polygon points="477,115 495,105 521,105 503,115" fill="#102948" stroke="#eef3fa" stroke-width="2"/>
+  <rect x="510" y="88" width="26" height="90" fill="#eef3fa" stroke="#eef3fa" stroke-width="2"/>
+  <polygon points="536,88 554,78 554,168 536,178" fill="#eef3fa" stroke="#eef3fa" stroke-width="2" fill-opacity="0.82"/>
+  <polygon points="510,88 528,78 554,78 536,88" fill="#102948" stroke="#eef3fa" stroke-width="2"/>
+  <g class="comet">
+    <circle r="5.5" fill="#f1b014" stroke="#eef3fa" stroke-width="2"/>
+    <circle cx="-10" r="3" fill="#f1b014" fill-opacity="0.55"/>
+    <circle cx="-18" r="2" fill="#f1b014" fill-opacity="0.3"/>
+  </g>
+  <text x="24" y="220" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="12" fill="#28486b">Clean Code · DDIA · Fluent Python · ReWork · 设计心理学 · 原子习惯</text>
+</svg>

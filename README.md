@@ -56,6 +56,21 @@ snapshot = load("data/profile.json")
 assert all(gates(snapshot))   # 15 checks — fail means no page
 render(snapshot)              # deterministic, offline
 ```
+
+The whole loop, as the platform draws it:
+
+```mermaid
+flowchart LR
+  S[sync] --> D[(snapshot)] --> B[build] --> G{15 gates}
+  G -- pass --> O[README + assets]
+  G -- fail --> X[no write]
+  O --> C[check]
+```
+
+Why the palette holds: every pairing on this page is checked against the
+WCAG ratio the gates enforce —
+
+$$\frac{L_1 + 0.05}{L_2 + 0.05} \geq 4.5$$
 <!-- END HUMAN -->
 
 <p><br></p>
@@ -149,6 +164,15 @@ A shelf is only worth keeping if it is yours. Most of what is here started as a 
 </p>
 
 
+<p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/bookshelf-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/bookshelf-light.svg">
+  <img alt="isometric bookshelf" src="assets/bookshelf-dark.svg">
+</picture>
+</p>
+
+
 <p><br></p>
 
 <p><sub><strong>SHIPPING</strong></sub></p>
@@ -164,7 +188,7 @@ A shelf is only worth keeping if it is yours. Most of what is here started as a 
 <p><br></p>
 
 <details open>
-<summary>Principles</summary>
+<summary>Principles · 原则</summary>
 
 <dl>
 <dt>Own your data</dt>
@@ -178,7 +202,7 @@ A shelf is only worth keeping if it is yours. Most of what is here started as a 
 </details>
 
 <details open>
-<summary>Toolchain</summary>
+<summary>Toolchain · 工具链</summary>
 
 <dl>
 <dt>Runtime</dt>
@@ -194,7 +218,7 @@ A shelf is only worth keeping if it is yours. Most of what is here started as a 
 </details>
 
 <details>
-<summary>Colophon</summary>
+<summary>Colophon · 页脚注记</summary>
 
 <dl>
 <dt>Snapshot</dt>
