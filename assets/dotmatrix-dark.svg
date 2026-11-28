@@ -3,17 +3,18 @@
   <rect x="0" y="0" width="852" height="93" fill="#102948" stroke="#eef3fa" stroke-width="3"/>
   <style>
     @keyframes wave{0%{opacity:.14}4%{opacity:1}62%{opacity:1}66%{opacity:.14}100%{opacity:.14}}
-    .c0{animation:wave 4.00s linear infinite;animation-delay:-0.000s}
-    .c1{animation:wave 4.00s linear infinite;animation-delay:-0.220s}
-    .c2{animation:wave 4.00s linear infinite;animation-delay:-0.440s}
-    .c3{animation:wave 4.00s linear infinite;animation-delay:-0.660s}
-    .c4{animation:wave 4.00s linear infinite;animation-delay:-0.880s}
-    .c5{animation:wave 4.00s linear infinite;animation-delay:-1.100s}
-    .c6{animation:wave 4.00s linear infinite;animation-delay:-1.320s}
-    .c7{animation:wave 4.00s linear infinite;animation-delay:-1.540s}
-    .c8{animation:wave 4.00s linear infinite;animation-delay:-1.760s}
-    .c9{animation:wave 4.00s linear infinite;animation-delay:-1.980s}
-    .c10{animation:wave 4.00s linear infinite;animation-delay:-2.200s}
+    @keyframes power-on{0%{opacity:0;transform:translateY(4px)}70%{opacity:1;transform:translateY(0)}100%{opacity:1}}
+    .c0{animation:power-on 1.00s ease-out both, wave 4.00s linear infinite;animation-delay:0.00s, 1.55s;opacity:.14}
+    .c1{animation:power-on 1.00s ease-out both, wave 4.00s linear infinite;animation-delay:0.05s, 1.77s;opacity:.14}
+    .c2{animation:power-on 1.00s ease-out both, wave 4.00s linear infinite;animation-delay:0.10s, 1.99s;opacity:.14}
+    .c3{animation:power-on 1.00s ease-out both, wave 4.00s linear infinite;animation-delay:0.15s, 2.21s;opacity:.14}
+    .c4{animation:power-on 1.00s ease-out both, wave 4.00s linear infinite;animation-delay:0.20s, 2.43s;opacity:.14}
+    .c5{animation:power-on 1.00s ease-out both, wave 4.00s linear infinite;animation-delay:0.25s, 2.65s;opacity:.14}
+    .c6{animation:power-on 1.00s ease-out both, wave 4.00s linear infinite;animation-delay:0.30s, 2.87s;opacity:.14}
+    .c7{animation:power-on 1.00s ease-out both, wave 4.00s linear infinite;animation-delay:0.35s, 3.09s;opacity:.14}
+    .c8{animation:power-on 1.00s ease-out both, wave 4.00s linear infinite;animation-delay:0.40s, 3.31s;opacity:.14}
+    .c9{animation:power-on 1.00s ease-out both, wave 4.00s linear infinite;animation-delay:0.45s, 3.53s;opacity:.14}
+    .c10{animation:power-on 1.00s ease-out both, wave 4.00s linear infinite;animation-delay:0.50s, 3.75s;opacity:.14}
     @keyframes fall{0%{transform:translateY(-6px);opacity:0}12%{opacity:1}80%{opacity:.8}100%{transform:translateY(101.2px);opacity:0}}
     .f0{animation:fall 4.0s linear infinite;animation-delay:-0.0s}
     .f1{animation:fall 4.8s linear infinite;animation-delay:-0.7s}
