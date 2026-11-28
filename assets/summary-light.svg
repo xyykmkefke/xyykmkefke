@@ -1,23 +1,34 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="856" height="278" viewBox="0 0 856 278" role="img" aria-label="languages">
+<svg xmlns="http://www.w3.org/2000/svg" width="856" height="340" viewBox="0 0 856 340" role="img" aria-label="languages">
 <g transform="translate(0,0)">
-  <rect x="4" y="4" width="852" height="274" fill="#102948"/>
-  <rect x="0" y="0" width="852" height="274" fill="#faf7f0" stroke="#102948" stroke-width="3"/>
+  <rect x="4" y="4" width="852" height="336" fill="#102948"/>
+  <rect x="0" y="0" width="852" height="336" fill="#faf7f0" stroke="#102948" stroke-width="3"/>
   <rect x="0" y="0" width="852" height="38" fill="#f1b014"/>
   <line x1="0" y1="38" x2="852" y2="38" stroke="#102948" stroke-width="3"/>
   <text x="22" y="24" font-family="Georgia,'Times New Roman',serif" font-size="12" font-weight="700" fill="#102948">LANGUAGES</text>
   <path d="M 820 9 L 821 16 L 827 12 L 823 18 L 830 19 L 823 20 L 827 26 L 821 22 L 820 29 L 819 22 L 813 26 L 817 20 L 810 19 L 817 18 L 813 12 L 819 16 Z" fill="#102948"/>
   <text x="22" y="80" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="15" fill="#526072">JavaScript</text>
-  <text x="830" y="80" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="15" font-weight="700" text-anchor="end" fill="#2b538e">46%</text>
+  <text x="830" y="80" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="15" font-weight="700" text-anchor="end" fill="#2b538e">47%</text>
   <rect x="22" y="88" width="808" height="16" fill="#3f5670" stroke="#102948" stroke-width="2"/>
-  <rect x="25" y="91" width="367" height="10" fill="#f1b014"/>
+  <rect x="25" y="91" width="379" height="10" fill="#f1b014"/>
   <text x="22" y="142" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="15" fill="#526072">HTML</text>
-  <text x="830" y="142" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="15" font-weight="700" text-anchor="end" fill="#2b538e">35%</text>
+  <text x="830" y="142" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="15" font-weight="700" text-anchor="end" fill="#2b538e">33%</text>
   <rect x="22" y="150" width="808" height="16" fill="#3f5670" stroke="#102948" stroke-width="2"/>
-  <rect x="25" y="153" width="283" height="10" fill="#f1b014"/>
+  <rect x="25" y="153" width="266" height="10" fill="#f1b014"/>
   <text x="22" y="204" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="15" fill="#526072">Python</text>
-  <text x="830" y="204" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="15" font-weight="700" text-anchor="end" fill="#2b538e">19%</text>
+  <text x="830" y="204" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="15" font-weight="700" text-anchor="end" fill="#2b538e">20%</text>
   <rect x="22" y="212" width="808" height="16" fill="#3f5670" stroke="#102948" stroke-width="2"/>
-  <rect x="25" y="215" width="152" height="10" fill="#f1b014"/>
+  <rect x="25" y="215" width="157" height="10" fill="#f1b014"/>
+  <text x="22" y="266" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="15" fill="#526072">Shell</text>
+  <text x="830" y="266" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="15" font-weight="700" text-anchor="end" fill="#2b538e">0.0%</text>
+  <rect x="22" y="274" width="808" height="16" fill="#3f5670" stroke="#102948" stroke-width="2"/>
+  <rect x="25" y="277" width="1" height="10" fill="#f1b014"/>
+  <defs>
+    <filter id="grain" x="0" y="0" width="100%" height="100%">
+      <feTurbulence type="fractalNoise" baseFrequency="0.8" numOctaves="2" seed="7"/>
+      <feColorMatrix type="matrix" values="0 0 0 0 0  0 0 0 0 0  0 0 0 0 0  0.9 0.9 0.9 0 0"/>
+    </filter>
+  </defs>
+  <rect x="0" y="0" width="856" height="336" filter="url(#grain)" opacity="0.10"/>
 
 </g>
 </svg>

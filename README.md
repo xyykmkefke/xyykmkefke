@@ -35,7 +35,7 @@
 <!-- BEGIN HUMAN: edit freely; preserved by build and exempt from drift -->
 > Pipelines by day, shelves by night — I build small, local-first tools for the stories I keep coming back to.
 
-:books: The shelves hold anime, visual novels and light novels. Most of these tools exist because a link died or a service shut down once too often — so everything runs <mark>offline</mark>, saves to disk, and answers to nobody else's server.
+:books: The shelves hold anime, visual novels and light novels. Most of these tools exist because a link died or a service shut down once too often[^1] — so everything runs <mark>offline</mark>, saves to disk, and answers to nobody else's server.
 
 > [!TIP]
 > Click the vinyl card above to hear what's on it.
@@ -44,6 +44,8 @@
 - [x] profile pipeline — shipped, 15 gates green
 - [ ] PDF scanner — teaching it to see printed text
 - [ ] streak graph — filling since 2026-11-28
+
+[^1]: Not rhetorical. Three shelved projects each started the day their source site went down; the current libraries were written so that the day this site goes quiet, the shelf stays.
 <!-- END HUMAN -->
 
 <p><br></p>

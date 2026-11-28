@@ -14,6 +14,21 @@
     .c8{animation:wave 4.00s linear infinite;animation-delay:-1.760s}
     .c9{animation:wave 4.00s linear infinite;animation-delay:-1.980s}
     .c10{animation:wave 4.00s linear infinite;animation-delay:-2.200s}
+    @keyframes fall{0%{transform:translateY(-6px)opacity:0}14%{opacity:.8}82%{opacity:.5}100%{transform:translateY(101.2px)opacity:0}}
+    .f0{animation:fall 4.2s linear infinite;animation-delay:-0.0s}
+    .f1{animation:fall 5.1s linear infinite;animation-delay:-0.7s}
+    .f2{animation:fall 6.0s linear infinite;animation-delay:-1.4s}
+    .f3{animation:fall 6.9s linear infinite;animation-delay:-2.1s}
+    .f4{animation:fall 7.8s linear infinite;animation-delay:-2.8s}
+    .f5{animation:fall 4.2s linear infinite;animation-delay:-3.5s}
+    .f6{animation:fall 5.1s linear infinite;animation-delay:-4.2s}
+    .f7{animation:fall 6.0s linear infinite;animation-delay:-4.9s}
+    .f8{animation:fall 6.9s linear infinite;animation-delay:-5.6s}
+    .f9{animation:fall 7.8s linear infinite;animation-delay:-6.3s}
+    .f10{animation:fall 4.2s linear infinite;animation-delay:-2.8s}
+    .f11{animation:fall 5.1s linear infinite;animation-delay:-2.6s}
+    .f12{animation:fall 6.0s linear infinite;animation-delay:-2.4s}
+    .f13{animation:fall 6.9s linear infinite;animation-delay:-2.2s}
   </style>
   <circle class="c0" cx="257.1" cy="26.6" r="2.6" fill="#f1b014"/>
   <circle class="c0" cx="257.1" cy="33.6" r="2.6" fill="#f1b014"/>
@@ -157,4 +172,25 @@
   <circle class="c10" cx="580.9" cy="54.6" r="2.6" fill="#f1b014"/>
   <circle class="c10" cx="580.9" cy="61.6" r="2.6" fill="#f1b014"/>
   <circle class="c10" cx="580.9" cy="68.6" r="2.6" fill="#f1b014"/>
+  <circle class="f0" cx="30.0" cy="6.0" r="1.5" fill="#eef3fa" fill-opacity="0.85"/>
+  <circle class="f1" cx="167.0" cy="8.0" r="1.9" fill="#eef3fa" fill-opacity="0.85"/>
+  <circle class="f2" cx="304.0" cy="10.0" r="2.3" fill="#eef3fa" fill-opacity="0.85"/>
+  <circle class="f3" cx="441.0" cy="12.0" r="1.5" fill="#eef3fa" fill-opacity="0.85"/>
+  <circle class="f4" cx="578.0" cy="6.0" r="1.9" fill="#eef3fa" fill-opacity="0.85"/>
+  <circle class="f5" cx="715.0" cy="8.0" r="2.3" fill="#eef3fa" fill-opacity="0.85"/>
+  <circle class="f6" cx="60.0" cy="10.0" r="1.5" fill="#eef3fa" fill-opacity="0.85"/>
+  <circle class="f7" cx="197.0" cy="12.0" r="1.9" fill="#eef3fa" fill-opacity="0.85"/>
+  <circle class="f8" cx="334.0" cy="6.0" r="2.3" fill="#eef3fa" fill-opacity="0.85"/>
+  <circle class="f9" cx="471.0" cy="8.0" r="1.5" fill="#eef3fa" fill-opacity="0.85"/>
+  <circle class="f10" cx="608.0" cy="10.0" r="1.9" fill="#eef3fa" fill-opacity="0.85"/>
+  <circle class="f11" cx="745.0" cy="12.0" r="2.3" fill="#eef3fa" fill-opacity="0.85"/>
+  <circle class="f12" cx="90.0" cy="6.0" r="1.5" fill="#eef3fa" fill-opacity="0.85"/>
+  <circle class="f13" cx="227.0" cy="8.0" r="1.9" fill="#eef3fa" fill-opacity="0.85"/>
+  <defs>
+    <filter id="grain" x="0" y="0" width="100%" height="100%">
+      <feTurbulence type="fractalNoise" baseFrequency="0.8" numOctaves="2" seed="7"/>
+      <feColorMatrix type="matrix" values="0 0 0 0 0  0 0 0 0 0  0 0 0 0 0  0.9 0.9 0.9 0 0"/>
+    </filter>
+  </defs>
+  <rect x="0" y="0" width="856" height="93" filter="url(#grain)" opacity="0.10"/>
 </svg>

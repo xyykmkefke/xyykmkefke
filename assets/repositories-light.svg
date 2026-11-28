@@ -1,20 +1,20 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="856" height="690" viewBox="0 0 856 690" role="img" aria-label="selected projects">
-  <rect x="4" y="4" width="852" height="686" fill="#102948"/>
-  <rect x="0" y="0" width="852" height="686" fill="#faf7f0" stroke="#102948" stroke-width="3"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="856" height="798" viewBox="0 0 856 798" role="img" aria-label="selected projects">
+  <rect x="4" y="4" width="852" height="794" fill="#102948"/>
+  <rect x="0" y="0" width="852" height="794" fill="#faf7f0" stroke="#102948" stroke-width="3"/>
   <rect x="0" y="0" width="852" height="38" fill="#f1b014"/>
   <line x1="0" y1="38" x2="852" y2="38" stroke="#102948" stroke-width="3"/>
   <text x="22" y="24" font-family="Georgia,'Times New Roman',serif" font-size="12" font-weight="700" fill="#102948">SELECTED PROJECTS</text>
   <path d="M 820 9 L 821 16 L 827 12 L 823 18 L 830 19 L 823 20 L 827 26 L 821 22 L 820 29 L 819 22 L 813 26 L 817 20 L 810 19 L 817 18 L 813 12 L 819 16 Z" fill="#102948"/>
   <text x="22" y="94" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="13" font-weight="700" letter-spacing="2" fill="#526072">EXPERIMENTS</text>
-  <text x="22" y="132" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="20" font-weight="700" fill="#102948">xyykmkefke</text>
-  <text x="22" y="162" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="15" fill="#526072">This page: a README and a set of SVG cards, generated offline from a public</text>
-  <text x="22" y="182" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="15" fill="#526072">data snapshot</text>
+  <text x="22" y="132" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="20" font-weight="700" fill="#102948">neon-four2</text>
+  <text x="22" y="162" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="15" fill="#526072">NEON FOUR2 — reach any target number using exactly four 2s. A</text>
+  <text x="22" y="182" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="15" fill="#526072">zero-dependency, single-file puzzle</text>
+  <rect x="786" y="110" width="44" height="24" fill="#f1b014" stroke="#102948" stroke-width="2"/>
+  <text x="808" y="127" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="12" font-weight="700" text-anchor="middle" fill="#102948">HTML</text>
   <line x1="0" y1="202" x2="852" y2="202" stroke="#102948" stroke-width="3"/>
-  <text x="22" y="240" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="20" font-weight="700" fill="#102948">neon-four2</text>
-  <text x="22" y="270" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="15" fill="#526072">NEON FOUR2 — reach any target number using exactly four 2s. A</text>
-  <text x="22" y="290" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="15" fill="#526072">zero-dependency, single-file puzzle</text>
-  <rect x="786" y="218" width="44" height="24" fill="#f1b014" stroke="#102948" stroke-width="2"/>
-  <text x="808" y="235" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="12" font-weight="700" text-anchor="middle" fill="#102948">HTML</text>
+  <text x="22" y="240" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="20" font-weight="700" fill="#102948">xyykmkefke</text>
+  <text x="22" y="270" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="15" fill="#526072">This page: a README and a set of SVG cards, generated offline from a public</text>
+  <text x="22" y="290" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="15" fill="#526072">data snapshot</text>
   <text x="22" y="338" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="13" font-weight="700" letter-spacing="2" fill="#526072">SHELVES</text>
   <text x="22" y="376" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="20" font-weight="700" fill="#102948">light-novel-library</text>
   <text x="22" y="406" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="15" fill="#526072">Light-novel shelf and reading log on Bangumi data. Built to outlive link</text>
@@ -33,4 +33,14 @@
   <text x="22" y="642" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="15" fill="#526072">shelf saves to disk and reads fine without a network.</text>
   <rect x="745" y="570" width="85" height="24" fill="#f1b014" stroke="#102948" stroke-width="2"/>
   <text x="788" y="587" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="12" font-weight="700" text-anchor="middle" fill="#102948">JavaScript</text>
+  <line x1="0" y1="662" x2="852" y2="662" stroke="#102948" stroke-width="3"/>
+  <text x="22" y="700" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="20" font-weight="700" fill="#102948">.github</text>
+  <text x="22" y="730" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="15" fill="#526072">Account-wide default community health files</text>
+  <defs>
+    <filter id="grain" x="0" y="0" width="100%" height="100%">
+      <feTurbulence type="fractalNoise" baseFrequency="0.8" numOctaves="2" seed="7"/>
+      <feColorMatrix type="matrix" values="0 0 0 0 0  0 0 0 0 0  0 0 0 0 0  0.9 0.9 0.9 0 0"/>
+    </filter>
+  </defs>
+  <rect x="0" y="0" width="856" height="794" filter="url(#grain)" opacity="0.10"/>
 </svg>
