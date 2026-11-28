@@ -104,6 +104,15 @@ A shelf is only worth keeping if it is yours. Most of what is here started as a 
 
 <p>
 <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/skyline-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/skyline-light.svg">
+  <img alt="contribution city" src="assets/skyline-dark.svg">
+</picture>
+</p>
+
+
+<p>
+<picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/repositories-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="assets/repositories-light.svg">
   <img alt="selected projects" src="assets/repositories-dark.svg">

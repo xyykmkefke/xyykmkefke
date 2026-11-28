@@ -1,0 +1,76 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="856" height="230" viewBox="0 0 856 230" role="img" aria-label="contribution city">
+  <rect x="4" y="4" width="852" height="226" fill="#eef3fa"/>
+  <rect x="0" y="0" width="852" height="226" fill="#102948" stroke="#eef3fa" stroke-width="3"/>
+  <rect x="0" y="0" width="852" height="38" fill="#f1b014"/>
+  <line x1="0" y1="38" x2="852" y2="38" stroke="#eef3fa" stroke-width="3"/>
+  <text x="22" y="24" font-family="Georgia,'Times New Roman',serif" font-size="12" font-weight="700" fill="#102948">CONTRIBUTION CITY</text>
+  <path d="M 820 9 L 821 16 L 827 12 L 823 18 L 830 19 L 823 20 L 827 26 L 821 22 L 820 29 L 819 22 L 813 26 L 817 20 L 810 19 L 817 18 L 813 12 L 819 16 Z" fill="#102948"/>
+  <text x="804" y="30" font-family="Georgia,'Times New Roman',serif" font-size="20" font-weight="700" text-anchor="end" fill="#102948" stroke="#eef3fa" stroke-width="6">200</text>
+  <text x="804" y="30" font-family="Georgia,'Times New Roman',serif" font-size="20" font-weight="700" text-anchor="end" fill="#f1b014">200</text>
+  <line x1="22" y1="196" x2="770" y2="196" stroke="#28486b" stroke-width="2"/>
+  <rect x="28" y="192" width="8" height="4" fill="#234266"/>
+  <rect x="42" y="192" width="8" height="4" fill="#234266"/>
+  <rect x="56" y="192" width="8" height="4" fill="#234266"/>
+  <rect x="70" y="192" width="8" height="4" fill="#234266"/>
+  <rect x="84" y="192" width="8" height="4" fill="#234266"/>
+  <rect x="98" y="192" width="8" height="4" fill="#234266"/>
+  <rect x="112" y="192" width="8" height="4" fill="#234266"/>
+  <rect x="126" y="192" width="8" height="4" fill="#234266"/>
+  <rect x="140" y="192" width="8" height="4" fill="#234266"/>
+  <rect x="154" y="192" width="8" height="4" fill="#234266"/>
+  <rect x="168" y="192" width="8" height="4" fill="#234266"/>
+  <rect x="182" y="192" width="8" height="4" fill="#234266"/>
+  <rect x="196" y="192" width="8" height="4" fill="#234266"/>
+  <rect x="210" y="192" width="8" height="4" fill="#234266"/>
+  <rect x="224" y="192" width="8" height="4" fill="#234266"/>
+  <rect x="238" y="192" width="8" height="4" fill="#234266"/>
+  <rect x="252" y="192" width="8" height="4" fill="#234266"/>
+  <rect x="266" y="192" width="8" height="4" fill="#234266"/>
+  <rect x="280" y="192" width="8" height="4" fill="#234266"/>
+  <rect x="294" y="192" width="8" height="4" fill="#234266"/>
+  <rect x="308" y="192" width="8" height="4" fill="#234266"/>
+  <rect x="322" y="192" width="8" height="4" fill="#234266"/>
+  <rect x="336" y="192" width="8" height="4" fill="#234266"/>
+  <rect x="350" y="192" width="8" height="4" fill="#234266"/>
+  <rect x="364" y="192" width="8" height="4" fill="#234266"/>
+  <rect x="378" y="192" width="8" height="4" fill="#234266"/>
+  <rect x="392" y="192" width="8" height="4" fill="#234266"/>
+  <rect x="406" y="192" width="8" height="4" fill="#234266"/>
+  <rect x="420" y="192" width="8" height="4" fill="#234266"/>
+  <rect x="434" y="192" width="8" height="4" fill="#234266"/>
+  <rect x="448" y="192" width="8" height="4" fill="#234266"/>
+  <rect x="462" y="192" width="8" height="4" fill="#234266"/>
+  <rect x="476" y="192" width="8" height="4" fill="#234266"/>
+  <rect x="490" y="192" width="8" height="4" fill="#234266"/>
+  <rect x="504" y="192" width="8" height="4" fill="#234266"/>
+  <rect x="518" y="192" width="8" height="4" fill="#234266"/>
+  <rect x="532" y="192" width="8" height="4" fill="#234266"/>
+  <rect x="546" y="192" width="8" height="4" fill="#234266"/>
+  <rect x="560" y="192" width="8" height="4" fill="#234266"/>
+  <rect x="574" y="192" width="8" height="4" fill="#234266"/>
+  <rect x="588" y="192" width="8" height="4" fill="#234266"/>
+  <rect x="602" y="192" width="8" height="4" fill="#234266"/>
+  <rect x="616" y="192" width="8" height="4" fill="#234266"/>
+  <rect x="630" y="192" width="8" height="4" fill="#234266"/>
+  <rect x="644" y="192" width="8" height="4" fill="#234266"/>
+  <rect x="658" y="192" width="8" height="4" fill="#234266"/>
+  <rect x="672" y="192" width="8" height="4" fill="#234266"/>
+  <rect x="686" y="192" width="8" height="4" fill="#234266"/>
+  <rect x="700" y="192" width="8" height="4" fill="#234266"/>
+  <rect x="714" y="192" width="8" height="4" fill="#234266"/>
+  <rect x="728" y="176" width="8" height="20" fill="#f1b014" fill-opacity="0.45" stroke="#eef3fa" stroke-width="2"/>
+  <polygon points="736,176 742,172 742,192 736,196" fill="#f1b014" fill-opacity="0.25" stroke="#eef3fa" stroke-width="2"/>
+  <polygon points="728,176 734,172 742,172 736,176" fill="#102948" stroke="#eef3fa" stroke-width="2"/>
+  <rect x="742" y="192" width="8" height="4" fill="#234266"/>
+  <rect x="756" y="78" width="8" height="118" fill="#f1b014" fill-opacity="1.00" stroke="#eef3fa" stroke-width="2"/>
+  <polygon points="764,78 770,74 770,192 764,196" fill="#f1b014" fill-opacity="0.55" stroke="#eef3fa" stroke-width="2"/>
+  <polygon points="756,78 762,74 770,74 764,78" fill="#102948" stroke="#eef3fa" stroke-width="2"/>
+  <text x="24" y="218" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="12" fill="#28486b">53 weeks · 200 contributions</text>
+  <defs>
+    <filter id="grain" x="0" y="0" width="100%" height="100%">
+      <feTurbulence type="fractalNoise" baseFrequency="0.8" numOctaves="2" seed="7"/>
+      <feColorMatrix type="matrix" values="0 0 0 0 0  0 0 0 0 0  0 0 0 0 0  0.9 0.9 0.9 0 0"/>
+    </filter>
+  </defs>
+  <rect x="0" y="0" width="856" height="226" filter="url(#grain)" opacity="0.22"/>
+</svg>
