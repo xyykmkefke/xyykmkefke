@@ -183,12 +183,10 @@ A shelf is only worth keeping if it is yours. Most of what is here started as a 
 
 <p><br></p>
 
-<img alt="Yamada Ryo glancing sideways at someone off-screen" src="assets/ryo-glance.gif" width="150">
+<img alt="Yamada Ryo glancing sideways at someone off-screen" src="assets/ryo-glance.gif" width="428">
 
 <p align="center">
 <img alt="Pixel-art portrait of Ryo" src="assets/portrait-pixel-dark.png" width="176">
 </p>
 
 <p><br></p>
-
-<img alt="Generative flow-field art" src="assets/genart-dark.png" width="856">
