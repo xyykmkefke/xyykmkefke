@@ -40,37 +40,10 @@
 > [!TIP]
 > Click the vinyl card above to hear what's on it.
 
-> [!WARNING]
-> Everything below is a snapshot, not live data — dates are as of build time.
-
-Palette: `#102948` navy · `#f1b014` yellow · `#eef3fa` ink · `#6fa3e6` blue.
-
 :wrench: **Now:**
 - [x] profile pipeline — shipped, 15 gates green
 - [ ] PDF scanner — teaching it to see printed text
 - [ ] streak graph — filling since 2026-11-28
-
-```python
-# this page, three lines
-snapshot = load("data/profile.json")
-assert all(gates(snapshot))   # 15 checks — fail means no page
-render(snapshot)              # deterministic, offline
-```
-
-The whole loop, as the platform draws it:
-
-```mermaid
-flowchart LR
-  S[sync] --> D[(snapshot)] --> B[build] --> G{15 gates}
-  G -- pass --> O[README + assets]
-  G -- fail --> X[no write]
-  O --> C[check]
-```
-
-Why the palette holds: every pairing on this page is checked against the
-WCAG ratio the gates enforce —
-
-$$\frac{L_1 + 0.05}{L_2 + 0.05} \geq 4.5$$
 <!-- END HUMAN -->
 
 <p><br></p>
@@ -187,7 +160,7 @@ A shelf is only worth keeping if it is yours. Most of what is here started as a 
 
 <p><br></p>
 
-<details open>
+<details>
 <summary>Principles · 原则</summary>
 
 <dl>
@@ -201,7 +174,7 @@ A shelf is only worth keeping if it is yours. Most of what is here started as a 
 
 </details>
 
-<details open>
+<details>
 <summary>Toolchain · 工具链</summary>
 
 <dl>
@@ -228,6 +201,36 @@ A shelf is only worth keeping if it is yours. Most of what is here started as a 
 <dt>Themes</dt>
 <dd>Cards follow <code>prefers-color-scheme</code>, so light and dark are both first-class.</dd>
 </dl>
+
+</details>
+
+<details>
+<summary>Under the hood · 页面设计</summary>
+
+This page is a snapshot, not live data — dates are as of build time.
+
+Palette: `#102948` navy · `#f1b014` yellow · `#eef3fa` ink · `#6fa3e6` blue.
+
+```python
+# this page, three lines
+snapshot = load("data/profile.json")
+assert all(gates(snapshot))   # 15 checks — fail means no page
+render(snapshot)              # deterministic, offline
+```
+
+The whole loop, as the platform draws it:
+
+```mermaid
+flowchart LR
+  S[sync] --> D[(snapshot)] --> B[build] --> G{15 gates}
+  G -- pass --> O[README + assets]
+  G -- fail --> X[no write]
+  O --> C[check]
+```
+
+Why the palette holds: every pairing on this page is checked against the WCAG ratio the gates enforce —
+
+$$\frac{L_1 + 0.05}{L_2 + 0.05} \geq 4.5$$
 
 </details>
 
