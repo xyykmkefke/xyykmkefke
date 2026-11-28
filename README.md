@@ -14,9 +14,9 @@
 
 <p>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/typing-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/typing-light.svg">
-  <img alt="typewriter slogans" src="assets/typing-dark.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/dotmatrix-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/dotmatrix-light.svg">
+  <img alt="dot matrix title" src="assets/dotmatrix-dark.svg">
 </picture>
 </p>
 
@@ -37,7 +37,9 @@
 
 :books: Anime, visual novels and light novels are my shelves. Most of what I write exists to hold onto them — a browser, a log, something that still opens when the network is gone. Everything here runs <mark>offline</mark> and saves to disk: no account, no sync service, no request to anybody else's server.
 
-:wrench: **Now:** teaching a PDF scanner to tell printed text apart from text that is merely there.
+:wrench: - [x] profile pipeline — offline, gated, live
+- [ ] PDF scanner — teaching it to see
+- [ ] streak graph — filling since 2026-11-28
 
 > [!TIP]
 > Click the vinyl card below to hear what's on it.
@@ -116,9 +118,24 @@ A shelf is only worth keeping if it is yours. Most of what is here started as a 
 
 <p align="center"><sub>counting since 2026-11-28</sub></p>
 
+<p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/marquee-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/marquee-light.svg">
+  <img alt="status marquee" src="assets/marquee-dark.svg">
+</picture>
+</p>
+
+
 <p><br></p>
 
 **Repositories:** <kbd>[xyykmkefke](https://github.com/xyykmkefke/xyykmkefke)</kbd> <kbd>[light-novel-library](https://github.com/xyykmkefke/light-novel-library)</kbd> <kbd>[galgame-library](https://github.com/xyykmkefke/galgame-library)</kbd> <kbd>[bangumi-anime-library](https://github.com/xyykmkefke/bangumi-anime-library)</kbd> <kbd>[neon-four2](https://github.com/xyykmkefke/neon-four2)</kbd>
+
+### Recent releases
+
+- **v1.6.28** — bangumi-anime-library · 2026-11-27
+- **v1.6.27** — bangumi-anime-library · 2026-11-27
+- **v1.6.26** — bangumi-anime-library · 2026-11-27
 
 <p><br></p>
 
@@ -166,9 +183,17 @@ A shelf is only worth keeping if it is yours. Most of what is here started as a 
 
 <p><br></p>
 
-<blockquote>
-<p align="center">
-<img alt="Yamada Ryo glancing sideways at someone off-screen" src="assets/ryo-glance.gif" width="428">
+<p>
+<img align="left" alt="Yamada Ryo glancing sideways at someone off-screen" src="assets/ryo-glance.gif" width="150">
+She nods at the shelves above; the shelves nod back.
+Everything on this page was built for her, more or less.
 </p>
+<br clear="all">
 
-</blockquote>
+<p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/genart-dark.png">
+  <source media="(prefers-color-scheme: light)" srcset="assets/genart-light.png">
+  <img alt="Generative flow-field art" src="assets/genart-dark.png">
+</picture>
+</p>
