@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="856" height="588" viewBox="0 0 856 588" role="img" aria-label="selected projects">
-  <rect x="4" y="4" width="852" height="584" fill="#eef3fa"/>
-  <rect x="0" y="0" width="852" height="584" fill="#102948" stroke="#eef3fa" stroke-width="3"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="856" height="562" viewBox="0 0 856 562" role="img" aria-label="selected projects">
+  <rect x="4" y="4" width="852" height="558" fill="#eef3fa"/>
+  <rect x="0" y="0" width="852" height="558" fill="#102948" stroke="#eef3fa" stroke-width="3"/>
   <rect x="0" y="0" width="852" height="38" fill="#f1b014"/>
   <line x1="0" y1="38" x2="852" y2="38" stroke="#eef3fa" stroke-width="3"/>
   <text x="22" y="24" font-family="Georgia,'Times New Roman',serif" font-size="12" font-weight="700" fill="#102948">SELECTED PROJECTS</text>
@@ -8,24 +8,25 @@
   <text x="22" y="88" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11" font-weight="700" letter-spacing="2" fill="#a8b8cf">EXPERIMENTS</text>
   <text x="22" y="104" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="14" font-weight="700" fill="#eef3fa">xyykmkefke</text>
   <text x="22" y="122" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11" fill="#a8b8cf">This page: a README and a set of SVG cards, generated offline from a public data snapshot</text>
-  <text x="22" y="198" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11" font-weight="700" letter-spacing="2" fill="#a8b8cf">SHELVES</text>
-  <text x="22" y="214" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="14" font-weight="700" fill="#eef3fa">light-novel-library</text>
-  <text x="22" y="232" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11" fill="#a8b8cf">A local-first light novel library and reading log, built on Bangumi entries</text>
-  <rect x="22" y="240" width="70" height="18" fill="#f1b014" stroke="#eef3fa" stroke-width="2"/>
-  <text x="57" y="253" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="10" font-weight="700" text-anchor="middle" fill="#102948">JavaScript</text>
-  <line x1="0" y1="270" x2="852" y2="270" stroke="#eef3fa" stroke-width="3"/>
-  <text x="22" y="298" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="14" font-weight="700" fill="#eef3fa">galgame-library</text>
-  <text x="22" y="316" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11" fill="#a8b8cf">A local-first visual novel library and play log, built on Bangumi entries</text>
+  <line x1="0" y1="160" x2="852" y2="160" stroke="#eef3fa" stroke-width="3"/>
+  <text x="22" y="188" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="14" font-weight="700" fill="#eef3fa">neon-four2</text>
+  <text x="22" y="206" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11" fill="#a8b8cf">NEON FOUR2 — reach any target number using exactly four 2s. A zero-dependency, single-file puzzle</text>
+  <rect x="22" y="214" width="36" height="18" fill="#f1b014" stroke="#eef3fa" stroke-width="2"/>
+  <text x="40" y="227" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="10" font-weight="700" text-anchor="middle" fill="#102948">HTML</text>
+  <text x="22" y="282" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11" font-weight="700" letter-spacing="2" fill="#a8b8cf">SHELVES</text>
+  <text x="22" y="298" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="14" font-weight="700" fill="#eef3fa">light-novel-library</text>
+  <text x="22" y="316" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11" fill="#a8b8cf">Light-novel shelf and reading log on Bangumi data. Built to outlive link rot: the library still opens after the feed dies.</text>
   <rect x="22" y="324" width="70" height="18" fill="#f1b014" stroke="#eef3fa" stroke-width="2"/>
   <text x="57" y="337" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="10" font-weight="700" text-anchor="middle" fill="#102948">JavaScript</text>
   <line x1="0" y1="354" x2="852" y2="354" stroke="#eef3fa" stroke-width="3"/>
-  <text x="22" y="382" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="14" font-weight="700" fill="#eef3fa">bangumi-anime-library</text>
-  <text x="22" y="400" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11" fill="#a8b8cf">A local-first anime library: browse, search and keep a watchlist, with offline PWA support</text>
-  <rect x="22" y="408" width="70" height="18" fill="#f1b014" stroke="#eef3fa" stroke-width="2"/>
-  <text x="57" y="421" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="10" font-weight="700" text-anchor="middle" fill="#102948">JavaScript</text>
-  <text x="22" y="476" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11" font-weight="700" letter-spacing="2" fill="#a8b8cf">EXPERIMENTS</text>
-  <text x="22" y="492" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="14" font-weight="700" fill="#eef3fa">neon-four2</text>
-  <text x="22" y="510" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11" fill="#a8b8cf">NEON FOUR2 — reach any target number using exactly four 2s. A zero-dependency, single-file puzzle</text>
-  <rect x="22" y="518" width="36" height="18" fill="#f1b014" stroke="#eef3fa" stroke-width="2"/>
-  <text x="40" y="531" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="10" font-weight="700" text-anchor="middle" fill="#102948">HTML</text>
+  <text x="22" y="382" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="14" font-weight="700" fill="#eef3fa">galgame-library</text>
+  <text x="22" y="400" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11" fill="#a8b8cf">A Galgame browser and play-log on Bangumi entries. Every finished route gets a line in the log — stored locally, never in</text>
+  <text x="22" y="414" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11" fill="#a8b8cf">somebody's cloud.</text>
+  <rect x="22" y="428" width="70" height="18" fill="#f1b014" stroke="#eef3fa" stroke-width="2"/>
+  <text x="57" y="441" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="10" font-weight="700" text-anchor="middle" fill="#102948">JavaScript</text>
+  <line x1="0" y1="450" x2="852" y2="450" stroke="#eef3fa" stroke-width="3"/>
+  <text x="22" y="466" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="14" font-weight="700" fill="#eef3fa">bangumi-anime-library</text>
+  <text x="22" y="484" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11" fill="#a8b8cf">Local-first Bangumi anime library: browse, search and keep a watchlist. The shelf saves to disk and reads fine without a network.</text>
+  <rect x="22" y="492" width="70" height="18" fill="#f1b014" stroke="#eef3fa" stroke-width="2"/>
+  <text x="57" y="505" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="10" font-weight="700" text-anchor="middle" fill="#102948">JavaScript</text>
 </svg>

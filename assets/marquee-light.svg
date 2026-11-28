@@ -1,13 +1,13 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="856" height="48" viewBox="0 0 856 48" role="img" aria-label="gates: all green   ·   zero external references   ·   offline by design">
+<svg xmlns="http://www.w3.org/2000/svg" width="856" height="48" viewBox="0 0 856 48" role="img" aria-label="now shipping v1.6.28   ·   shelf sync in progress   ·   zero external references">
   <rect x="4" y="4" width="852" height="44" fill="#102948"/>
   <rect x="0" y="0" width="852" height="44" fill="#faf7f0" stroke="#102948" stroke-width="3"/>
   <rect x="0" y="0" width="852" height="44" fill="#f1b014"/>
   <style>
-    @keyframes scroll{to{transform:translateX(-596px)}}
-    .mq{animation:scroll 9.9s linear infinite}
+    @keyframes scroll{to{transform:translateX(-672px)}}
+    .mq{animation:scroll 11.2s linear infinite}
   </style>
     <g class="mq">
-    <text x="0" y="27.4" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="15" fill="#102948">gates: all green   ·   zero external references   ·   offline by design</text>
-    <text x="596" y="27.4" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="15" fill="#102948">gates: all green   ·   zero external references   ·   offline by design</text>
+    <text x="0" y="27.4" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="15" fill="#102948">now shipping v1.6.28   ·   shelf sync in progress   ·   zero external references</text>
+    <text x="672" y="27.4" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="15" fill="#102948">now shipping v1.6.28   ·   shelf sync in progress   ·   zero external references</text>
     </g>
 </svg>

@@ -35,14 +35,14 @@
 <!-- BEGIN HUMAN: edit freely; preserved by build and exempt from drift -->
 > Pipelines by day, shelves by night — I build small, local-first tools for the stories I keep coming back to.
 
-:books: Anime, visual novels and light novels are my shelves. Most of what I write exists to hold onto them — a browser, a log, something that still opens when the network is gone. Everything here runs <mark>offline</mark> and saves to disk: no account, no sync service, no request to anybody else's server.
+:books: The shelves hold anime, visual novels and light novels. Most of these tools exist because a link died or a service shut down once too often — so everything runs <mark>offline</mark>, saves to disk, and answers to nobody else's server.
 
 > [!TIP]
 > Click the vinyl card above to hear what's on it.
 
 :wrench: **Now:**
-- [x] profile pipeline — offline, gated, live
-- [ ] PDF scanner — teaching it to see
+- [x] profile pipeline — shipped, 15 gates green
+- [ ] PDF scanner — teaching it to see printed text
 - [ ] streak graph — filling since 2026-11-28
 <!-- END HUMAN -->
 
@@ -54,7 +54,7 @@
 
 <blockquote>
 <p align="center">
-<img alt="Yamada Ryo from Bocchi the Rock, holding a leafy stem in her mouth" src="assets/ryo-snack.gif" width="571">
+<img alt="Yamada Ryo from Bocchi the Rock, holding a leafy stem in her mouth" src="assets/ryo-snack.gif" width="428">
 </p>
 
 </blockquote>
@@ -63,9 +63,9 @@
 
 <p><sub><strong>CURRENTLY</strong></sub></p>
 
-- A local-first shelf for anime, visual novels and light novels — everything saved to disk
-- Small puzzle experiments that ship as a single HTML file
-- A scanner for text hidden inside PDFs, because invisible words should not count as words
+- **Building** — the play-log half of galgame-library — routes, saves and stats, all local
+- **Shipping** — the v1.6.2x cycle: watchlist sync edge cases
+- **Learning** — how far CommonMark HTML blocks can be pushed before they push back
 
 <p><br></p>
 
@@ -130,13 +130,15 @@ A shelf is only worth keeping if it is yours. Most of what is here started as a 
 
 <p><br></p>
 
+<p><sub><strong>SHIPPING</strong></sub></p>
+
 **Repositories:** <kbd>[light-novel-library](https://github.com/xyykmkefke/light-novel-library)</kbd> <kbd>[galgame-library](https://github.com/xyykmkefke/galgame-library)</kbd> <kbd>[bangumi-anime-library](https://github.com/xyykmkefke/bangumi-anime-library)</kbd> <kbd>[neon-four2](https://github.com/xyykmkefke/neon-four2)</kbd>
 
-### Recent releases
-
-- **v1.6.28** — bangumi-anime-library · 2026-11-27
-- **v1.6.27** — bangumi-anime-library · 2026-11-27
-- **v1.6.26** — bangumi-anime-library · 2026-11-27
+- **v1.6.31** — shipped · bangumi-anime-library · 2026-11-28
+- **v1.6.30** — shipped · bangumi-anime-library · 2026-11-28
+- **v0.1.0** — shipped · neon-four2 · 2026-11-28
+- **v0.1.0** — shipped · light-novel-library · 2026-11-28
+- **v0.1.0** — shipped · galgame-library · 2026-11-28
 
 <p><br></p>
 
@@ -163,7 +165,7 @@ A shelf is only worth keeping if it is yours. Most of what is here started as a 
 <dt>Output</dt>
 <dd>One <code>README</code> and a set of <code>SVG</code> cards, rebuilt from a single snapshot</dd>
 <dt>Checks</dt>
-<dd>Fifteen checks on contrast, labels and missing assets</dd>
+<dd>Gated on contrast, labels and missing assets</dd>
 </dl>
 
 </details>
