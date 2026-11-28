@@ -6,31 +6,22 @@
   <line x1="0" y1="38" x2="852" y2="38" stroke="#eef3fa" stroke-width="3"/>
   <text x="22" y="24" font-family="Georgia,'Times New Roman',serif" font-size="12" font-weight="700" fill="#102948">LANGUAGES</text>
   <path d="M 820 9 L 821 16 L 827 12 L 823 18 L 830 19 L 823 20 L 827 26 L 821 22 L 820 29 L 819 22 L 813 26 L 817 20 L 810 19 L 817 18 L 813 12 L 819 16 Z" fill="#102948"/>
-  <style>
-    @keyframes grow{from{transform:scaleX(0)}}
-  </style>
   <text x="22" y="80" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="15" fill="#a8b8cf">JavaScript</text>
   <text x="830" y="80" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="15" font-weight="700" text-anchor="end" fill="#6fa3e6">47%</text>
   <rect x="22" y="88" width="808" height="16" fill="#234266" stroke="#eef3fa" stroke-width="2"/>
-  <rect class="bar0" x="25" y="91" width="379" height="10" fill="#f1b014"/>
+  <rect x="25" y="91" width="379" height="10" fill="#f1b014"/>
   <text x="22" y="142" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="15" fill="#a8b8cf">HTML</text>
   <text x="830" y="142" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="15" font-weight="700" text-anchor="end" fill="#6fa3e6">33%</text>
   <rect x="22" y="150" width="808" height="16" fill="#234266" stroke="#eef3fa" stroke-width="2"/>
-  <rect class="bar1" x="25" y="153" width="266" height="10" fill="#f1b014"/>
+  <rect x="25" y="153" width="266" height="10" fill="#f1b014"/>
   <text x="22" y="204" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="15" fill="#a8b8cf">Python</text>
   <text x="830" y="204" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="15" font-weight="700" text-anchor="end" fill="#6fa3e6">20%</text>
   <rect x="22" y="212" width="808" height="16" fill="#234266" stroke="#eef3fa" stroke-width="2"/>
-  <rect class="bar2" x="25" y="215" width="157" height="10" fill="#f1b014"/>
+  <rect x="25" y="215" width="157" height="10" fill="#f1b014"/>
   <text x="22" y="266" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="15" fill="#a8b8cf">Shell</text>
   <text x="830" y="266" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="15" font-weight="700" text-anchor="end" fill="#6fa3e6">0.0%</text>
   <rect x="22" y="274" width="808" height="16" fill="#234266" stroke="#eef3fa" stroke-width="2"/>
-  <rect class="bar3" x="25" y="277" width="1" height="10" fill="#f1b014"/>
-  <style>
-    .bar0{transform-box:fill-box;transform-origin:left center;animation:grow .6s ease-out both;animation-delay:0.20s}
-    .bar1{transform-box:fill-box;transform-origin:left center;animation:grow .6s ease-out both;animation-delay:0.32s}
-    .bar2{transform-box:fill-box;transform-origin:left center;animation:grow .6s ease-out both;animation-delay:0.44s}
-    .bar3{transform-box:fill-box;transform-origin:left center;animation:grow .6s ease-out both;animation-delay:0.56s}
-  </style>
+  <rect x="25" y="277" width="1" height="10" fill="#f1b014"/>
   <defs>
     <filter id="grain" x="0" y="0" width="100%" height="100%">
       <feTurbulence type="fractalNoise" baseFrequency="0.8" numOctaves="2" seed="7"/>

@@ -1,27 +1,21 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="856" height="72" viewBox="0 0 856 72" role="img" aria-label="REPOS 7, FOLLOWERS 0, STARS 0">
   <rect x="4" y="4" width="852" height="68" fill="#102948"/>
   <rect x="0" y="0" width="852" height="68" fill="#faf7f0" stroke="#102948" stroke-width="3"/>
-  <style>
-    @keyframes drop{from{opacity:0;transform:translateY(-8px)}}
-    .bg0{animation:drop .45s ease-out both;animation-delay:0.10s}
-    .bg1{animation:drop .45s ease-out both;animation-delay:0.17s}
-    .bg2{animation:drop .45s ease-out both;animation-delay:0.24s}
-  </style>
-  <g class="bg0">
+  <g>
     <rect x="288" y="20" width="78" height="28" fill="#faf7f0" stroke="#102948" stroke-width="3"/>
     <rect x="290.0" y="21.5" width="49.5" height="25.0" fill="#d8d2c4"/>
     <rect x="339.5" y="21.5" width="25.5" height="25.0" fill="#f1b014"/>
     <text x="3140.0" y="375.0" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="100" text-anchor="middle" fill="#102948" transform="scale(.1)" textLength="310.0">REPOS</text>
     <text x="3530.0" y="375.0" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="100" font-weight="700" text-anchor="middle" fill="#102948" transform="scale(.1)" textLength="70.0">7</text>
   </g>
-  <g class="bg1">
+  <g>
     <rect x="374" y="20" width="103" height="28" fill="#faf7f0" stroke="#102948" stroke-width="3"/>
     <rect x="376.0" y="21.5" width="74.5" height="25.0" fill="#d8d2c4"/>
     <rect x="450.5" y="21.5" width="25.5" height="25.0" fill="#f1b014"/>
     <text x="4125.0" y="375.0" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="100" text-anchor="middle" fill="#102948" transform="scale(.1)" textLength="560.0">FOLLOWERS</text>
     <text x="4640.0" y="375.0" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="100" font-weight="700" text-anchor="middle" fill="#102948" transform="scale(.1)" textLength="70.0">0</text>
   </g>
-  <g class="bg2">
+  <g>
     <rect x="485" y="20" width="78" height="28" fill="#faf7f0" stroke="#102948" stroke-width="3"/>
     <rect x="487.0" y="21.5" width="49.5" height="25.0" fill="#d8d2c4"/>
     <rect x="536.5" y="21.5" width="25.5" height="25.0" fill="#f1b014"/>
