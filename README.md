@@ -129,7 +129,7 @@ A shelf is only worth keeping if it is yours. Most of what is here started as a 
 
 <p><br></p>
 
-**Repositories:** <kbd>[xyykmkefke](https://github.com/xyykmkefke/xyykmkefke)</kbd> <kbd>[light-novel-library](https://github.com/xyykmkefke/light-novel-library)</kbd> <kbd>[galgame-library](https://github.com/xyykmkefke/galgame-library)</kbd> <kbd>[bangumi-anime-library](https://github.com/xyykmkefke/bangumi-anime-library)</kbd> <kbd>[neon-four2](https://github.com/xyykmkefke/neon-four2)</kbd>
+**Repositories:** <kbd>[light-novel-library](https://github.com/xyykmkefke/light-novel-library)</kbd> <kbd>[galgame-library](https://github.com/xyykmkefke/galgame-library)</kbd> <kbd>[bangumi-anime-library](https://github.com/xyykmkefke/bangumi-anime-library)</kbd> <kbd>[neon-four2](https://github.com/xyykmkefke/neon-four2)</kbd>
 
 ### Recent releases
 
@@ -190,10 +190,6 @@ Everything on this page was built for her, more or less.
 </p>
 <br clear="all">
 
-<p>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/genart-dark.png">
-  <source media="(prefers-color-scheme: light)" srcset="assets/genart-light.png">
-  <img alt="Generative flow-field art" src="assets/genart-dark.png">
-</picture>
+<p align="center">
+<img alt="Pixel-art portrait of Ryo" src="assets/portrait-pixel-dark.png" height="170"> <img alt="Generative flow-field art" src="assets/genart-dark.png" height="170">
 </p>
