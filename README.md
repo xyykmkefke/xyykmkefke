@@ -37,12 +37,13 @@
 
 :books: Anime, visual novels and light novels are my shelves. Most of what I write exists to hold onto them — a browser, a log, something that still opens when the network is gone. Everything here runs <mark>offline</mark> and saves to disk: no account, no sync service, no request to anybody else's server.
 
-:wrench: - [x] profile pipeline — offline, gated, live
+> [!TIP]
+> Click the vinyl card above to hear what's on it.
+
+:wrench: **Now:**
+- [x] profile pipeline — offline, gated, live
 - [ ] PDF scanner — teaching it to see
 - [ ] streak graph — filling since 2026-11-28
-
-> [!TIP]
-> Click the vinyl card below to hear what's on it.
 <!-- END HUMAN -->
 
 <p><br></p>
@@ -162,7 +163,7 @@ A shelf is only worth keeping if it is yours. Most of what is here started as a 
 <dt>Output</dt>
 <dd>One <code>README</code> and a set of <code>SVG</code> cards, rebuilt from a single snapshot</dd>
 <dt>Checks</dt>
-<dd>Fourteen gates on contrast, labels and missing assets</dd>
+<dd>Fifteen checks on contrast, labels and missing assets</dd>
 </dl>
 
 </details>
@@ -183,7 +184,9 @@ A shelf is only worth keeping if it is yours. Most of what is here started as a 
 
 <p><br></p>
 
+<p align="center">
 <img alt="Yamada Ryo glancing sideways at someone off-screen" src="assets/ryo-glance.gif" width="428">
+</p>
 
 <p align="center">
 <img alt="Pixel-art portrait of Ryo" src="assets/portrait-pixel-dark.png" width="176">
