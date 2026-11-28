@@ -40,10 +40,22 @@
 > [!TIP]
 > Click the vinyl card above to hear what's on it.
 
+> [!WARNING]
+> Everything below is a snapshot, not live data — dates are as of build time.
+
+Palette: `#102948` navy · `#f1b014` yellow · `#eef3fa` ink · `#6fa3e6` blue.
+
 :wrench: **Now:**
 - [x] profile pipeline — shipped, 15 gates green
 - [ ] PDF scanner — teaching it to see printed text
 - [ ] streak graph — filling since 2026-11-28
+
+```python
+# this page, three lines
+snapshot = load("data/profile.json")
+assert all(gates(snapshot))   # 15 checks — fail means no page
+render(snapshot)              # deterministic, offline
+```
 <!-- END HUMAN -->
 
 <p><br></p>
@@ -102,6 +114,15 @@ A shelf is only worth keeping if it is yours. Most of what is here started as a 
 
 <p>
 <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/heatmap-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/heatmap-light.svg">
+  <img alt="contribution heatmap" src="assets/heatmap-dark.svg">
+</picture>
+</p>
+
+
+<p>
+<picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/repositories-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="assets/repositories-light.svg">
   <img alt="selected projects" src="assets/repositories-dark.svg">
@@ -132,7 +153,7 @@ A shelf is only worth keeping if it is yours. Most of what is here started as a 
 
 <p><sub><strong>SHIPPING</strong></sub></p>
 
-**Repositories:** <kbd>[light-novel-library](https://github.com/xyykmkefke/light-novel-library)</kbd> <kbd>[galgame-library](https://github.com/xyykmkefke/galgame-library)</kbd> <kbd>[bangumi-anime-library](https://github.com/xyykmkefke/bangumi-anime-library)</kbd> <kbd>[neon-four2](https://github.com/xyykmkefke/neon-four2)</kbd>
+**Repositories:** <kbd>[.github](https://github.com/xyykmkefke/.github)</kbd> <kbd>[neon-four2](https://github.com/xyykmkefke/neon-four2)</kbd> <kbd>[light-novel-library](https://github.com/xyykmkefke/light-novel-library)</kbd> <kbd>[galgame-library](https://github.com/xyykmkefke/galgame-library)</kbd> <kbd>[bangumi-anime-library](https://github.com/xyykmkefke/bangumi-anime-library)</kbd>
 
 - **v1.6.31** — shipped · bangumi-anime-library · 2026-11-28
 - **v1.6.30** — shipped · bangumi-anime-library · 2026-11-28
@@ -166,6 +187,8 @@ A shelf is only worth keeping if it is yours. Most of what is here started as a 
 <dd>One <code>README</code> and a set of <code>SVG</code> cards, rebuilt from a single snapshot</dd>
 <dt>Checks</dt>
 <dd>Gated on contrast, labels and missing assets</dd>
+<dt>Calendar</dt>
+<dd><code>contributionsCollection</code> via <code>gh api</code>, rendered locally</dd>
 </dl>
 
 </details>
