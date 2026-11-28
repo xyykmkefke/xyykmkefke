@@ -102,15 +102,6 @@ A shelf is only worth keeping if it is yours. Most of what is here started as a 
 
 <p>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/heatmap-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/heatmap-light.svg">
-  <img alt="contribution heatmap" src="assets/heatmap-dark.svg">
-</picture>
-</p>
-
-
-<p>
-<picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/repositories-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="assets/repositories-light.svg">
   <img alt="selected projects" src="assets/repositories-dark.svg">
@@ -133,15 +124,6 @@ A shelf is only worth keeping if it is yours. Most of what is here started as a 
   <source media="(prefers-color-scheme: dark)" srcset="assets/marquee-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="assets/marquee-light.svg">
   <img alt="status marquee" src="assets/marquee-dark.svg">
-</picture>
-</p>
-
-
-<p>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/bookshelf-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/bookshelf-light.svg">
-  <img alt="isometric bookshelf" src="assets/bookshelf-dark.svg">
 </picture>
 </p>
 
