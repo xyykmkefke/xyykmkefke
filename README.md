@@ -143,7 +143,7 @@ A shelf is only worth keeping if it is yours. Most of what is here started as a 
 <p><br></p>
 
 <details>
-<summary>Principles · 原则</summary>
+<summary>Principles</summary>
 
 <dl>
 <dt>Own your data</dt>
@@ -157,7 +157,7 @@ A shelf is only worth keeping if it is yours. Most of what is here started as a 
 </details>
 
 <details>
-<summary>Toolchain · 工具链</summary>
+<summary>Toolchain</summary>
 
 <dl>
 <dt>Runtime</dt>
@@ -173,7 +173,7 @@ A shelf is only worth keeping if it is yours. Most of what is here started as a 
 </details>
 
 <details>
-<summary>Colophon · 页脚注记</summary>
+<summary>Colophon</summary>
 
 <dl>
 <dt>Snapshot</dt>
@@ -187,7 +187,7 @@ A shelf is only worth keeping if it is yours. Most of what is here started as a 
 </details>
 
 <details>
-<summary>Under the hood · 页面设计</summary>
+<summary>Under the hood</summary>
 
 This page is a snapshot, not live data — dates are as of build time.
 
